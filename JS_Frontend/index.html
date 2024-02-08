@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UT`-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Adam's Visualizer</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <nav id="nav">
+      <!-- Nav Left -->
+      <div id="logo"><img src="./vectors/Adams Visualizer.svg" alt="" title="كيف الحال؟"></div>
+      
+      <!-- Nav Middle -->
+      <div id="elements">
+          <input type="radio" name="place_element" value="player" id="place_player" checked onclick="return selectItem('player');">
+          <label class="element button" for="place_player"><img src="./vectors/player.svg" alt="player element"></label>
+          <input type="radio" name="place_element" value="tree" id="place_tree" onclick="return selectItem('tree');">
+          <label class="element button" for="place_tree"><img src="./vectors/tree.svg" alt="tree element"></label>
+          <input type="radio" name="place_element" value="gold" id="place_gold" onclick="return selectItem('gold');">
+          <label class="element button" for="place_gold"><img src="./vectors/gold.svg" alt="gold element"></label>
+          <input type="radio" name="place_element" value="remove" id="place_X" onclick="return selectItem('Xframe');">
+          <label class="element button" for="place_X"><img src="./vectors/Xframe.svg" alt="remove an element"></label>
+      </div>
+
+      <!-- Nav Right -->
+      <div id="right_section">
+        <div id="top_right_section">
+
+            <div id="search_section" class="dropdown_section">
+                <button id="algorithm_button" class="dropdown_button button">Breadth First Search</button>               
+              
+                <div id="algorithms" class="dropdown_options">
+                  <p>Select Algorithm</p>
+                  <li onclick="return changeAlgorithm('BFS', 'Breadth First Search')">Breadth First Search</li>
+                  <!-- <li onclick="return changeAlgorithm('DFS', 'Depth First Search')">Depth First Search</li> -->
+                  <!-- <li onclick="return changeAlgorithm('UCS', 'Uniform Cost Search')">Uniform Cost Search</li> -->
+                  <li onclick="return changeAlgorithm('Astar', 'A-Star Search')">A-Star Search</li>
+                  <li onclick="return changeAlgorithm('Greedy', 'Greedy Search')">Greedy Search</li>
+                </div>
+            </div>
+
+            <div id="speed_section" class="dropdown_section">
+              <button id="speed_button" class="dropdown_button button">x1.00</button>               
+            
+              <div id="speed_options" class="dropdown_options">
+                <p>Select Speed</p>
+                <!-- <li onclick="return changeSpeed(0.25, 'x0.25')">x0.25</li> -->
+                <li onclick="return changeSpeed(0.50, 'x0.50')">x0.50</li>
+                <!-- <li onclick="return changeSpeed(0.75, 'x0.75')">x0.75</li> -->
+                <li onclick="return changeSpeed(1.00, 'x1.00')">x1.00</li>
+                <!-- <li onclick="return changeSpeed(1.25, 'x1.25')">x1.25</li> -->
+                <li onclick="return changeSpeed(1.50, 'x1.50')">x1.50</li>
+                <!-- <li onclick="return changeSpeed(1.75, 'x1.75')">x1.75</li> -->
+                <li onclick="return changeSpeed(2.00, 'x2.00')">x2.00</li>
+                <li onclick="return changeSpeed(4.00, 'x4.00')">x4.00</li>
+              </div>
+          </div>
+        </div>
+
+          <div id="size_solve">
+            <input placeholder="5" class="size_input" name="rows_size" type="number" id="rows_input" value="5" onchange="return changeSize()" min="1" max="10"/>
+            <p id="x_label">x</p>
+            <input placeholder="7" class="size_input" name="colums_nsize" type="number" id="columns_input" value="7" onchange="return changeSize()" min="1" max="12"/>
+            <button id="solve_button" class="button" onclick="return solve();">Solve</button>
+          </div>
+      </div>
+    </nav>
+
+    <div id="main_div">
+      <table id="game_table">
+        <!-- Template code (Can Delete from here) -->
+        <tr>
+          <td><img src="" alt="" id="cell_1x1" onclick="return placeItem(1, 1)"></td>
+          <td><img src="" alt="" id="cell_1x2" onclick="return placeItem(1, 2)"></td>
+          <td><img src="" alt="" id="cell_1x3" onclick="return placeItem(1, 3)"></td>
+          <td><img src="" alt="" id="cell_1x4" onclick="return placeItem(1, 4)"></td>
+          <td><img src="" alt="" id="cell_1x5" onclick="return placeItem(1, 5)"></td>
+          <td><img src="" alt="" id="cell_1x6" onclick="return placeItem(1, 6)"></td>
+          <td><img src="" alt="" id="cell_1x7" onclick="return placeItem(1, 7)"></td>
+        </tr>
+        <tr>
+          <td><img src="" alt="" id="cell_2x1" onclick="return placeItem(2, 1)"></td>
+          <td><img src="" alt="" id="cell_2x2" onclick="return placeItem(2, 2)"></td>
+          <td><img src="" alt="" id="cell_2x3" onclick="return placeItem(2, 3)"></td>
+          <td><img src="" alt="" id="cell_2x4" onclick="return placeItem(2, 4)"></td>
+          <td><img src="" alt="" id="cell_2x5" onclick="return placeItem(2, 5)"></td>
+          <td><img src="" alt="" id="cell_2x6" onclick="return placeItem(2, 6)"></td>
+          <td><img src="" alt="" id="cell_2x7" onclick="return placeItem(2, 7)"></td>
+        </tr>
+        <tr>
+          <td><img src="" alt="" id="cell_3x1" onclick="return placeItem(3, 1)"></td>
+          <td><img src="" alt="" id="cell_3x2" onclick="return placeItem(3, 2)"></td>
+          <td><img src="" alt="" id="cell_3x3" onclick="return placeItem(3, 3)"></td>
+          <td><img src="" alt="" id="cell_3x4" onclick="return placeItem(3, 4)"></td>
+          <td><img src="" alt="" id="cell_3x5" onclick="return placeItem(3, 5)"></td>
+          <td><img src="" alt="" id="cell_3x6" onclick="return placeItem(3, 6)"></td>
+          <td><img src="" alt="" id="cell_3x7" onclick="return placeItem(3, 7)"></td>
+        </tr>
+        <tr>
+          <td><img src="" alt="" id="cell_4x1" onclick="return placeItem(4, 1)"></td>
+          <td><img src="" alt="" id="cell_4x2" onclick="return placeItem(4, 2)"></td>
+          <td><img src="" alt="" id="cell_4x3" onclick="return placeItem(4, 3)"></td>
+          <td><img src="" alt="" id="cell_4x4" onclick="return placeItem(4, 4)"></td>
+          <td><img src="" alt="" id="cell_4x5" onclick="return placeItem(4, 5)"></td>
+          <td><img src="" alt="" id="cell_4x6" onclick="return placeItem(4, 6)"></td>
+          <td><img src="" alt="" id="cell_4x7" onclick="return placeItem(4, 7)"></td>
+        </tr>
+        <tr>
+          <td><img src="" alt="" id="cell_5x1" onclick="return placeItem(5, 1)"></td>
+          <td><img src="" alt="" id="cell_5x2" onclick="return placeItem(5, 2)"></td>
+          <td><img src="" alt="" id="cell_5x3" onclick="return placeItem(5, 3)"></td>
+          <td><img src="" alt="" id="cell_5x4" onclick="return placeItem(5, 4)"></td>
+          <td><img src="" alt="" id="cell_5x5" onclick="return placeItem(5, 5)"></td>
+          <td><img src="" alt="" id="cell_5x6" onclick="return placeItem(5, 6)"></td>
+          <td><img src="" alt="" id="cell_5x7" onclick="return placeItem(5, 7)"></td>
+        </tr>
+        <!-- (Can Delete to here) -->
+      </table>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+</html>

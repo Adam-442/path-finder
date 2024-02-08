@@ -1,0 +1,4258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024">
+<g stroke-width="2.00" fill="none" stroke-linecap="butt">
+<path stroke="#120a19" vector-effect="non-scaling-stroke" d="
+  M 938.71 1.75
+  L 938.11 0.78
+  A 0.96 0.62 67.9 0 0 937.44 0.31
+  L 85.50 0.21"
+/>
+<path stroke="#453f3f" vector-effect="non-scaling-stroke" d="
+  M 981.54 938.50
+  Q 980.90 918.84 981.25 907.00
+  Q 981.58 895.70 981.29 888.50"
+/>
+<path stroke="#4d515f" vector-effect="non-scaling-stroke" d="
+  M 981.29 888.50
+  Q 981.22 512.68 981.25 136.87
+  Q 981.25 136.82 981.40 132.64
+  Q 981.48 130.32 981.21 128.00"
+/>
+<path stroke="#797d79" vector-effect="non-scaling-stroke" d="
+  M 981.21 128.00
+  L 981.42 86.54
+  A 1.31 1.30 89.4 0 0 980.08 85.22
+  Q 959.00 85.86 939.00 85.25
+  A 0.26 0.25 1.2 0 1 938.75 85.00
+  L 938.50 43.25
+  A 0.51 0.50 89.4 0 0 938.00 42.75
+  Q 879.28 42.52 752.75 42.50
+  Q 419.47 42.45 85.74 42.56
+  A 0.24 0.24 -45.0 0 0 85.50 42.80
+  L 85.32 84.59
+  A 0.65 0.64 89.6 0 1 84.69 85.24
+  L 43.25 85.50
+  A 0.51 0.51 -0.4 0 0 42.75 86.00
+  L 42.54 127.75"
+/>
+<path stroke="#4d515f" vector-effect="non-scaling-stroke" d="
+  M 42.54 127.75
+  Q 42.69 130.40 42.69 133.06
+  Q 42.36 337.03 42.33 541.00
+  Q 42.30 718.50 42.79 896.00"
+/>
+<path stroke="#453f3f" vector-effect="non-scaling-stroke" d="
+  M 42.79 896.00
+  L 42.75 938.25
+  A 0.25 0.25 -45.0 0 0 43.00 938.50
+  L 85.25 938.75"
+/>
+<path stroke="#453f3f" vector-effect="non-scaling-stroke" d="
+  M 85.25 938.75
+  L 85.25 981.50"
+/>
+<path stroke="#14091b" stroke-opacity="0.988" vector-effect="non-scaling-stroke" d="
+  M 1.25 938.54
+  Q 0.33 938.52 0.41 937.70
+  Q 0.48 936.89 0.47 936.80
+  Q 0.25 932.92 0.25 925.50
+  Q 0.25 507.50 0.25 89.50
+  Q 0.25 88.17 0.00 87.69"
+/>
+<path stroke="#b2c2bc" vector-effect="non-scaling-stroke" d="
+  M 981.21 128.00
+  L 939.00 128.04"
+/>
+<path stroke="#aab09c" vector-effect="non-scaling-stroke" d="
+  M 939.00 128.04
+  Q 938.58 128.07 938.46 127.75"
+/>
+<path stroke="#b2c2bc" vector-effect="non-scaling-stroke" d="
+  M 938.46 127.75
+  Q 939.10 107.41 938.53 86.03
+  A 0.74 0.73 88.8 0 0 937.79 85.31
+  Q 920.05 85.62 902.17 85.51
+  Q 902.07 85.51 899.36 85.25
+  Q 897.80 85.11 896.25 85.54"
+/>
+<path stroke="#aab09c" vector-effect="non-scaling-stroke" d="
+  M 896.25 85.54
+  Q 520.12 85.47 144.00 85.40
+  Q 136.00 85.40 128.00 85.29"
+/>
+<path stroke="#b2c2bc" vector-effect="non-scaling-stroke" d="
+  M 128.00 85.29
+  L 86.05 85.32
+  A 0.74 0.72 0.0 0 0 85.31 86.04
+  L 85.50 127.96"
+/>
+<path stroke="#aab09c" vector-effect="non-scaling-stroke" d="
+  M 85.50 127.96
+  Q 85.27 128.02 85.21 128.25"
+/>
+<path stroke="#b2c2bc" vector-effect="non-scaling-stroke" d="
+  M 85.21 128.25
+  Q 63.03 127.73 47.75 128.00
+  Q 44.37 128.06 42.54 127.75"
+/>
+<path stroke="#7d8381" vector-effect="non-scaling-stroke" d="
+  M 128.00 85.29
+  L 128.25 127.96"
+/>
+<path stroke="#4d515f" vector-effect="non-scaling-stroke" d="
+  M 128.25 127.96
+  L 128.00 128.04"
+/>
+<path stroke="#7d8381" vector-effect="non-scaling-stroke" d="
+  M 128.00 128.04
+  L 85.50 127.96"
+/>
+<path stroke="#7d8381" vector-effect="non-scaling-stroke" d="
+  M 896.25 85.54
+  L 895.96 128.00"
+/>
+<path stroke="#453f3f" vector-effect="non-scaling-stroke" d="
+  M 895.96 128.00
+  L 128.25 127.96"
+/>
+<path stroke="#7d8381" vector-effect="non-scaling-stroke" d="
+  M 938.46 127.75
+  Q 918.73 128.19 899.00 127.93
+  Q 897.50 127.91 896.04 128.25"
+/>
+<path stroke="#4d515f" vector-effect="non-scaling-stroke" d="
+  M 896.04 128.25
+  L 895.96 128.00"
+/>
+<path stroke="#7d8381" vector-effect="non-scaling-stroke" d="
+  M 85.21 128.25
+  Q 85.65 137.34 85.50 146.42
+  Q 85.33 156.67 85.41 162.59
+  Q 85.50 169.49 85.50 178.75
+  Q 85.50 498.38 85.50 818.00
+  Q 85.50 838.75 85.27 849.17
+  Q 85.26 849.73 85.44 850.81
+  Q 85.58 851.64 85.50 852.50
+  Q 85.41 853.56 86.50 853.29"
+/>
+<path stroke="#b2c2bc" vector-effect="non-scaling-stroke" d="
+  M 86.50 853.29
+  Q 85.11 853.55 85.31 854.66
+  Q 85.51 855.75 85.51 855.88
+  Q 85.71 875.82 85.21 895.75"
+/>
+<path stroke="#7d8381" vector-effect="non-scaling-stroke" d="
+  M 85.21 895.75
+  L 42.79 896.00"
+/>
+<path stroke="#7d8381" vector-effect="non-scaling-stroke" d="
+  M 939.00 128.04
+  Q 938.50 128.35 938.50 129.50
+  Q 938.50 490.37 938.50 851.24
+  Q 938.50 851.47 938.70 852.20
+  Q 938.91 852.94 938.00 853.29"
+/>
+<path stroke="#aab09c" vector-effect="non-scaling-stroke" d="
+  M 938.00 853.29
+  Q 917.02 853.83 896.04 853.25"
+/>
+<path stroke="#453f3f" vector-effect="non-scaling-stroke" d="
+  M 896.04 853.25
+  L 896.04 128.25"
+/>
+<path stroke="#453f3f" vector-effect="non-scaling-stroke" d="
+  M 128.00 128.04
+  L 128.04 810.50"
+/>
+<path stroke="#4d3e3e" vector-effect="non-scaling-stroke" d="
+  M 128.04 810.50
+  L 128.00 853.25"
+/>
+<path stroke="#aab09c" vector-effect="non-scaling-stroke" d="
+  M 128.00 853.25
+  Q 107.25 853.83 86.50 853.29"
+/>
+<path stroke="#797d79" vector-effect="non-scaling-stroke" d="
+  M 896.04 853.25
+  L 896.00 896.00"
+/>
+<path stroke="#797d79" vector-effect="non-scaling-stroke" d="
+  M 896.00 896.00
+  L 128.56 895.94
+  A 0.50 0.50 45.0 0 1 128.06 895.44
+  L 128.00 853.25"
+/>
+<path stroke="#1d0c1b" vector-effect="non-scaling-stroke" d="
+  M 128.00 853.25
+  Q 149.63 853.90 171.25 853.21"
+/>
+<path stroke="#5c060e" vector-effect="non-scaling-stroke" d="
+  M 171.25 853.21
+  Q 186.86 853.61 208.25 853.50
+  Q 281.56 853.11 384.00 853.21"
+/>
+<path stroke="#3f242d" vector-effect="non-scaling-stroke" d="
+  M 384.00 853.21
+  Q 403.41 853.60 422.82 853.27
+  Q 422.91 853.26 424.63 853.55
+  Q 425.65 853.73 426.54 853.00"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 469.46 852.75
+  Q 470.15 853.51 471.75 853.50
+  Q 491.90 853.37 512.04 853.25"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 554.71 853.00
+  L 554.74 853.22
+  A 0.31 0.26 -5.4 0 0 555.05 853.43
+  Q 574.68 853.07 594.31 853.30
+  Q 594.43 853.31 595.52 853.51
+  Q 596.37 853.67 597.04 853.00"
+/>
+<path stroke="#220915" stroke-opacity="0.702" vector-effect="non-scaling-stroke" d="
+  M 597.04 853.00
+  Q 597.38 853.16 597.72 853.30
+  Q 598.05 853.44 598.43 853.44
+  Q 619.24 853.34 640.04 853.25"
+/>
+<path stroke="#5c060e" vector-effect="non-scaling-stroke" d="
+  M 640.04 853.25
+  L 811.00 853.21"
+/>
+<path stroke="#551019" vector-effect="non-scaling-stroke" d="
+  M 811.00 853.21
+  L 852.31 853.31
+  A 1.18 1.15 -0.2 0 0 853.49 852.15
+  L 853.21 810.50"
+/>
+<path stroke="#160a18" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 853.21 810.50
+  Q 853.93 789.25 853.21 768.00"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 853.21 768.00
+  Q 853.28 756.57 853.26 745.14
+  Q 853.26 745.06 853.50 736.37
+  Q 853.65 730.91 853.00 725.46"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 853.21 682.50
+  Q 853.28 672.75 853.26 663.00
+  Q 853.26 662.93 853.52 651.50
+  Q 853.65 645.75 853.21 640.00"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 853.00 597.29
+  L 853.22 597.26
+  A 0.30 0.26 84.4 0 0 853.43 596.96
+  Q 852.96 569.52 853.25 559.75
+  Q 853.37 555.53 853.21 554.75"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 853.21 512.00
+  Q 853.18 493.75 853.50 475.50
+  Q 853.53 473.80 853.00 469.46"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 853.21 426.50
+  Q 853.28 416.75 853.26 407.00
+  Q 853.26 406.93 853.52 395.50
+  Q 853.65 389.75 853.21 384.00"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 853.00 341.29
+  L 853.22 341.26
+  A 0.30 0.26 84.4 0 0 853.43 340.96
+  Q 852.96 313.52 853.25 303.75
+  Q 853.37 299.53 853.21 298.75"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 853.21 256.00
+  L 853.21 213.25"
+/>
+<path stroke="#270814" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 853.21 213.25
+  L 853.49 172.31
+  A 1.60 1.59 -89.8 0 0 851.90 170.70
+  L 810.75 170.79"
+/>
+<path stroke="#5c060e" vector-effect="non-scaling-stroke" d="
+  M 810.75 170.79
+  L 640.25 170.79"
+/>
+<path stroke="#4d1922" vector-effect="non-scaling-stroke" d="
+  M 640.25 170.79
+  Q 619.79 170.15 599.32 170.68
+  Q 599.09 170.68 598.37 170.46
+  Q 597.76 170.27 597.46 171.00"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 554.71 171.25
+  Q 554.28 170.56 552.50 170.50
+  Q 549.08 170.39 545.67 170.53
+  Q 541.51 170.72 538.83 170.64
+  Q 525.40 170.28 511.96 170.75"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 469.25 170.79
+  Q 447.90 170.10 426.54 170.75"
+/>
+<path stroke="#320812" stroke-opacity="0.800" vector-effect="non-scaling-stroke" d="
+  M 426.54 170.75
+  Q 406.62 170.39 386.69 170.69
+  Q 384.83 170.71 384.29 171.00"
+/>
+<path stroke="#5c060e" vector-effect="non-scaling-stroke" d="
+  M 384.29 171.00
+  Q 383.82 170.75 382.50 170.75
+  Q 298.00 170.72 213.50 170.79"
+/>
+<path stroke="#481d27" vector-effect="non-scaling-stroke" d="
+  M 213.50 170.79
+  Q 192.66 170.14 171.19 170.70
+  A 0.53 0.53 -1.1 0 0 170.68 171.23
+  Q 170.79 189.01 170.75 206.04
+  Q 170.75 206.15 170.55 209.45
+  Q 170.43 211.35 170.79 213.25"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 171.00 255.96
+  L 170.78 255.99
+  A 0.30 0.26 84.4 0 0 170.57 256.29
+  Q 170.98 281.78 170.56 297.31
+  Q 170.54 298.22 170.79 298.50"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 171.00 341.46
+  Q 170.36 341.67 170.48 342.08
+  Q 170.75 343.00 170.75 343.00
+  Q 170.80 369.05 170.50 382.00
+  Q 170.47 383.39 170.79 384.00"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 171.00 426.71
+  Q 170.38 427.19 170.54 427.93
+  Q 170.75 428.93 170.74 429.10
+  Q 170.56 448.58 170.56 468.06
+  Q 170.56 469.00 170.79 469.25"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 171.00 511.96
+  L 170.78 511.99
+  A 0.30 0.26 84.4 0 0 170.57 512.29
+  Q 170.98 537.78 170.56 553.31
+  Q 170.54 554.22 170.79 554.50"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 171.00 597.46
+  Q 170.36 597.67 170.48 598.08
+  Q 170.75 599.00 170.75 599.00
+  Q 170.80 625.05 170.50 638.00
+  Q 170.47 639.39 170.79 640.00"
+/>
+<path stroke="#312b35" vector-effect="non-scaling-stroke" d="
+  M 171.00 682.71
+  Q 170.38 683.19 170.54 683.93
+  Q 170.75 684.93 170.74 685.10
+  Q 170.56 704.58 170.56 724.06
+  Q 170.56 725.00 170.79 725.25"
+/>
+<path stroke="#42222b" vector-effect="non-scaling-stroke" d="
+  M 170.75 767.96
+  L 170.71 810.25"
+/>
+<path stroke="#1d0c1b" vector-effect="non-scaling-stroke" d="
+  M 170.71 810.25
+  L 128.04 810.50"
+/>
+<path stroke="#7d8381" vector-effect="non-scaling-stroke" d="
+  M 981.29 888.50
+  L 981.25 895.50
+  A 0.50 0.50 -45.0 0 1 980.75 896.00
+  L 938.50 896.00"
+/>
+<path stroke="#b2c2bc" vector-effect="non-scaling-stroke" d="
+  M 938.50 896.00
+  Q 938.50 875.00 938.48 854.00
+  Q 938.48 853.50 938.00 853.29"
+/>
+<path stroke="#901719" vector-effect="non-scaling-stroke" d="
+  M 213.50 170.79
+  L 213.21 213.25"
+/>
+<path stroke="#8c0000" stroke-opacity="0.800" vector-effect="non-scaling-stroke" d="
+  M 384.29 171.00
+  Q 383.99 180.65 384.19 197.06
+  Q 384.22 200.09 384.00 213.21"
+/>
+<path stroke="#d20000" vector-effect="non-scaling-stroke" d="
+  M 384.00 213.21
+  Q 382.14 213.55 380.25 213.55
+  Q 339.75 213.53 299.25 213.46"
+/>
+<path stroke="#c00000" vector-effect="non-scaling-stroke" d="
+  M 299.25 213.46
+  L 256.04 213.50"
+/>
+<path stroke="#9d0a0b" vector-effect="non-scaling-stroke" d="
+  M 256.04 213.50
+  L 215.92 213.25
+  Q 214.00 213.24 214.00 215.14
+  Q 214.00 234.13 213.88 252.75
+  Q 213.85 256.77 213.86 252.50
+  Q 213.91 233.37 213.54 214.25"
+/>
+<path stroke="#562f31" stroke-opacity="0.800" vector-effect="non-scaling-stroke" d="
+  M 426.54 170.75
+  L 426.46 213.00"
+/>
+<path stroke="#970000" stroke-opacity="0.800" vector-effect="non-scaling-stroke" d="
+  M 426.46 213.00
+  Q 424.74 213.39 419.75 213.25
+  Q 410.78 213.00 384.29 213.50"
+/>
+<path stroke="#c50000" stroke-opacity="0.800" vector-effect="non-scaling-stroke" d="
+  M 384.29 213.50
+  Q 384.23 213.27 384.00 213.21"
+/>
+<path stroke="#55474a" vector-effect="non-scaling-stroke" d="
+  M 554.50 213.21
+  Q 554.28 213.25 554.25 213.46"
+/>
+<path stroke="#602b2d" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 554.54 256.25
+  L 554.71 298.25"
+/>
+<path stroke="#483c40" stroke-opacity="0.624" vector-effect="non-scaling-stroke" d="
+  M 554.71 298.25
+  Q 554.50 298.29 554.46 298.50"
+/>
+<path stroke="#5c4346" vector-effect="non-scaling-stroke" d="
+  M 554.46 298.50
+  L 512.00 298.46"
+/>
+<path stroke="#6f3235" vector-effect="non-scaling-stroke" d="
+  M 469.54 256.00
+  L 469.46 255.50"
+/>
+<path stroke="#473e42" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 469.46 255.50
+  L 469.19 214.05
+  A 0.51 0.50 0.6 0 0 468.69 213.55
+  Q 447.85 212.87 427.00 213.46"
+/>
+<path stroke="#822527" vector-effect="non-scaling-stroke" d="
+  M 427.00 213.46
+  L 426.46 213.00"
+/>
+<path stroke="#951314" vector-effect="non-scaling-stroke" d="
+  M 640.25 170.79
+  L 639.96 212.75"
+/>
+<path stroke="#9b1314" vector-effect="non-scaling-stroke" d="
+  M 639.96 212.75
+  L 639.74 213.02
+  A 0.83 0.56 11.3 0 1 639.16 213.26
+  Q 619.22 213.72 599.27 213.44
+  Q 599.18 213.44 598.39 213.28
+  Q 597.75 213.15 597.29 213.75"
+/>
+<path stroke="#713437" vector-effect="non-scaling-stroke" d="
+  M 597.29 213.75
+  L 597.21 213.25"
+/>
+<path stroke="#4f3336" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 853.21 213.25
+  L 810.79 213.25"
+/>
+<path stroke="#890001" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 810.71 212.75
+  L 810.75 170.79"
+/>
+<path stroke="#910000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 810.71 212.75
+  Q 809.91 213.72 808.71 213.58
+  Q 807.47 213.44 807.42 213.44
+  Q 788.12 213.50 768.81 213.56
+  A 0.63 0.48 -83.0 0 0 768.31 214.07
+  L 768.04 215.50"
+/>
+<path stroke="#c00000" vector-effect="non-scaling-stroke" d="
+  M 768.04 215.50
+  Q 768.64 213.18 766.50 213.25
+  Q 753.48 213.68 725.50 213.54"
+/>
+<path stroke="#d20000" vector-effect="non-scaling-stroke" d="
+  M 725.50 213.54
+  L 640.04 213.50"
+/>
+<path stroke="#aa0000" vector-effect="non-scaling-stroke" d="
+  M 640.04 213.50
+  L 639.96 212.75"
+/>
+<path stroke="#d80000" vector-effect="non-scaling-stroke" d="
+  M 640.04 213.50
+  L 639.71 256.25"
+/>
+<path stroke="#c30000" vector-effect="non-scaling-stroke" d="
+  M 639.71 256.25
+  Q 618.88 255.68 598.06 256.18
+  A 0.51 0.48 88.2 0 1 597.57 255.69
+  L 597.29 248.50"
+/>
+<path stroke="#862223" vector-effect="non-scaling-stroke" d="
+  M 597.29 248.50
+  L 597.29 213.75"
+/>
+<path stroke="#602b2d" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 810.79 213.25
+  Q 810.86 242.25 810.56 255.06
+  Q 810.54 255.79 811.00 255.96"
+/>
+<path stroke="#6c2426" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 810.75 256.04
+  L 768.04 256.00"
+/>
+<path stroke="#9c0000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 768.04 256.00
+  L 767.96 255.50"
+/>
+<path stroke="#b20000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 767.96 255.50
+  L 768.04 215.50"
+/>
+<path stroke="#9f0001" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 427.00 213.46
+  Q 426.23 213.90 426.75 214.75
+  Q 426.94 234.90 426.50 255.04"
+/>
+<path stroke="#c90000" vector-effect="non-scaling-stroke" d="
+  M 426.50 255.04
+  Q 425.93 256.26 424.58 256.12
+  Q 423.51 256.00 423.42 256.00
+  Q 403.83 255.97 384.25 256.04"
+/>
+<path stroke="#db0000" vector-effect="non-scaling-stroke" d="
+  M 384.25 256.04
+  Q 383.59 234.77 384.29 213.50"
+/>
+<path stroke="#b90a0b" vector-effect="non-scaling-stroke" d="
+  M 256.04 213.50
+  L 256.21 255.25"
+/>
+<path stroke="#a60a0b" vector-effect="non-scaling-stroke" d="
+  M 256.21 255.25
+  Q 255.87 255.68 255.96 256.25"
+/>
+<path stroke="#831012" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 255.96 256.25
+  Q 234.62 255.62 213.29 256.25"
+/>
+<path stroke="#722f32" vector-effect="non-scaling-stroke" d="
+  M 213.29 256.25
+  L 213.21 256.00"
+/>
+<path stroke="#ee0000" vector-effect="non-scaling-stroke" d="
+  M 299.25 213.46
+  Q 298.18 215.00 298.38 216.77
+  Q 298.67 219.29 298.67 219.40
+  Q 298.42 237.58 298.46 255.75"
+/>
+<path stroke="#c90000" vector-effect="non-scaling-stroke" d="
+  M 298.46 255.75
+  Q 278.35 256.18 258.23 256.00
+  Q 258.12 256.00 257.27 256.10
+  Q 256.27 256.22 256.21 255.25"
+/>
+<path stroke="#ee0000" vector-effect="non-scaling-stroke" d="
+  M 384.25 256.04
+  L 384.02 297.47
+  A 1.24 1.19 0.2 0 0 385.26 298.67
+  L 425.80 298.68
+  A 0.64 0.55 -1.9 0 1 426.43 299.19
+  L 426.54 301.00"
+/>
+<path stroke="#de0000" vector-effect="non-scaling-stroke" d="
+  M 426.54 301.00
+  Q 426.81 317.62 426.50 334.25
+  Q 426.46 336.57 426.79 341.75"
+/>
+<path stroke="#f10000" vector-effect="non-scaling-stroke" d="
+  M 426.79 341.75
+  L 426.57 382.78
+  A 1.20 1.16 89.8 0 0 427.74 383.98
+  L 469.00 383.71"
+/>
+<path stroke="#c60000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 469.00 383.71
+  L 469.50 384.04"
+/>
+<path stroke="#f30000" vector-effect="non-scaling-stroke" d="
+  M 469.50 384.04
+  L 469.49 425.57
+  A 0.96 0.93 -0.0 0 0 470.45 426.50
+  L 554.21 426.68
+  A 0.47 0.47 -39.9 0 0 554.69 426.20
+  Q 554.36 408.64 554.72 391.10
+  Q 554.72 391.00 554.62 388.42
+  Q 554.54 386.44 555.15 384.54
+  A 0.69 0.68 8.6 0 1 555.81 384.06
+  L 596.53 384.00
+  A 0.72 0.72 0.0 0 0 597.25 383.28
+  L 597.21 341.75"
+/>
+<path stroke="#de0000" vector-effect="non-scaling-stroke" d="
+  M 597.21 341.75
+  Q 597.90 320.19 597.31 301.94
+  Q 597.25 300.09 597.54 299.00"
+/>
+<path stroke="#eb0000" vector-effect="non-scaling-stroke" d="
+  M 597.54 299.00
+  Q 601.27 298.32 605.03 298.44
+  Q 611.93 298.65 612.49 298.64
+  Q 625.87 298.30 639.23 298.75
+  A 0.50 0.50 0.0 0 0 639.75 298.27
+  Q 640.41 277.25 639.71 256.25"
+/>
+<path stroke="#ee0000" vector-effect="non-scaling-stroke" d="
+  M 725.50 213.54
+  Q 725.48 230.31 725.50 247.07
+  Q 725.50 247.16 725.26 251.42
+  Q 725.13 253.71 725.54 256.00"
+/>
+<path stroke="#db0000" vector-effect="non-scaling-stroke" d="
+  M 725.54 256.00
+  L 725.25 298.54"
+/>
+<path stroke="#e80000" vector-effect="non-scaling-stroke" d="
+  M 725.25 298.54
+  L 683.86 298.58
+  A 1.31 1.30 -0.0 0 0 682.55 299.88
+  L 682.50 340.71"
+/>
+<path stroke="#f70000" vector-effect="non-scaling-stroke" d="
+  M 682.50 340.71
+  Q 682.03 341.25 681.00 341.25
+  Q 661.00 341.25 641.51 341.25
+  A 1.50 1.47 -0.2 0 0 640.01 342.73
+  L 640.29 384.00"
+/>
+<path stroke="#e70000" vector-effect="non-scaling-stroke" d="
+  M 640.29 384.00
+  L 640.01 425.49
+  A 1.03 0.99 90.0 0 1 639.02 426.52
+  L 598.04 426.56
+  A 0.78 0.76 -1.1 0 0 597.26 427.35
+  Q 597.82 443.25 597.22 459.50
+  Q 597.03 464.39 597.54 469.25"
+/>
+<path stroke="#d80000" vector-effect="non-scaling-stroke" d="
+  M 597.54 469.25
+  L 597.54 512.00"
+/>
+<path stroke="#e70000" vector-effect="non-scaling-stroke" d="
+  M 597.54 512.00
+  L 597.32 553.75
+  A 0.71 0.71 0.8 0 0 598.01 554.46
+  Q 619.88 554.97 640.00 554.46"
+/>
+<path stroke="#c70001" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 640.00 554.46
+  Q 640.34 554.63 640.29 555.00"
+/>
+<path stroke="#cf0203" vector-effect="non-scaling-stroke" d="
+  M 640.29 555.00
+  Q 639.56 576.38 640.29 597.75"
+/>
+<path stroke="#eb0000" vector-effect="non-scaling-stroke" d="
+  M 640.29 597.75
+  Q 639.64 618.65 640.18 639.18
+  A 0.84 0.83 89.3 0 0 641.01 640.00
+  L 682.50 639.96"
+/>
+<path stroke="#c51011" vector-effect="non-scaling-stroke" d="
+  M 682.50 639.96
+  L 682.75 640.04"
+/>
+<path stroke="#e10000" vector-effect="non-scaling-stroke" d="
+  M 682.75 640.04
+  L 682.79 682.75"
+/>
+<path stroke="#f40000" vector-effect="non-scaling-stroke" d="
+  M 682.79 682.75
+  L 682.56 724.45
+  A 1.05 1.03 89.2 0 0 683.62 725.50
+  Q 704.35 724.90 725.21 725.50"
+/>
+<path stroke="#e80000" vector-effect="non-scaling-stroke" d="
+  M 725.21 725.50
+  L 725.44 767.32
+  A 0.51 0.50 90.0 0 0 725.93 767.82
+  Q 746.95 768.32 767.96 767.75"
+/>
+<path stroke="#c50001" stroke-opacity="0.769" vector-effect="non-scaling-stroke" d="
+  M 767.96 767.75
+  Q 768.02 767.98 768.25 768.04"
+/>
+<path stroke="#db0000" vector-effect="non-scaling-stroke" d="
+  M 768.25 768.04
+  L 767.79 810.50"
+/>
+<path stroke="#d20000" vector-effect="non-scaling-stroke" d="
+  M 767.79 810.50
+  L 764.00 810.54"
+/>
+<path stroke="#f70000" vector-effect="non-scaling-stroke" d="
+  M 764.00 810.54
+  L 683.21 810.50
+  A 0.46 0.46 -45.0 0 1 682.75 810.04
+  L 682.69 769.13
+  A 1.14 1.13 0.0 0 0 681.55 768.00
+  L 640.00 768.04"
+/>
+<path stroke="#cf0203" vector-effect="non-scaling-stroke" d="
+  M 640.00 768.04
+  Q 639.77 767.98 639.71 767.75"
+/>
+<path stroke="#e80000" vector-effect="non-scaling-stroke" d="
+  M 639.71 767.75
+  Q 640.44 746.78 639.70 725.81
+  A 0.50 0.50 -2.0 0 0 639.19 725.32
+  Q 621.96 725.46 610.25 725.25
+  Q 603.45 725.13 598.06 725.53
+  A 0.53 0.53 -1.7 0 0 597.56 726.06
+  L 597.46 766.25"
+/>
+<path stroke="#c01516" vector-effect="non-scaling-stroke" d="
+  M 597.46 766.25
+  L 597.21 725.25"
+/>
+<path stroke="#d80000" vector-effect="non-scaling-stroke" d="
+  M 597.21 725.25
+  Q 597.90 703.62 597.21 682.00"
+/>
+<path stroke="#eb0000" vector-effect="non-scaling-stroke" d="
+  M 597.21 682.00
+  Q 597.54 675.71 597.50 674.50
+  Q 596.94 657.53 597.43 640.94
+  A 0.92 0.91 -89.4 0 0 596.52 640.00
+  L 557.00 640.04"
+/>
+<path stroke="#f30000" vector-effect="non-scaling-stroke" d="
+  M 557.00 640.04
+  Q 555.30 640.31 555.00 639.00
+  Q 554.34 636.16 554.45 632.62
+  Q 554.63 627.00 554.61 626.25
+  Q 554.29 612.08 554.67 598.37
+  A 1.09 1.08 -89.2 0 0 553.59 597.25
+  L 512.00 597.29"
+/>
+<path stroke="#e90000" vector-effect="non-scaling-stroke" d="
+  M 512.00 597.29
+  L 470.30 597.31
+  A 1.05 1.05 89.2 0 0 469.25 598.39
+  Q 469.80 618.78 469.32 639.31
+  A 0.52 0.50 -89.4 0 1 468.82 639.82
+  L 427.52 639.99
+  A 1.06 1.06 -0.3 0 0 426.47 641.05
+  L 426.54 682.00"
+/>
+<path stroke="#f70000" vector-effect="non-scaling-stroke" d="
+  M 426.54 682.00
+  Q 425.61 682.50 425.00 682.50
+  Q 405.25 682.50 385.16 682.50
+  A 1.15 1.13 0.0 0 0 384.01 683.63
+  L 384.29 725.25"
+/>
+<path stroke="#e40000" vector-effect="non-scaling-stroke" d="
+  M 384.29 725.25
+  L 384.04 767.00"
+/>
+<path stroke="#f10000" vector-effect="non-scaling-stroke" d="
+  M 384.04 767.00
+  L 383.82 767.64
+  A 0.85 0.60 6.1 0 1 383.06 768.06
+  L 342.49 768.00
+  A 1.25 1.25 88.9 0 0 341.24 769.30
+  Q 342.01 789.99 341.00 810.46"
+/>
+<path stroke="#d20000" vector-effect="non-scaling-stroke" d="
+  M 341.00 810.46
+  Q 318.11 810.74 259.50 810.75
+  Q 256.98 810.75 256.00 810.46"
+/>
+<path stroke="#e10000" vector-effect="non-scaling-stroke" d="
+  M 256.00 810.46
+  L 256.04 768.25"
+/>
+<path stroke="#eb0000" vector-effect="non-scaling-stroke" d="
+  M 256.04 768.25
+  L 298.06 767.82
+  A 0.52 0.50 -0.6 0 0 298.57 767.32
+  L 298.46 725.75"
+/>
+<path stroke="#cf0203" vector-effect="non-scaling-stroke" d="
+  M 298.46 725.75
+  Q 298.63 723.33 298.50 717.00
+  Q 298.23 703.97 298.75 683.04"
+/>
+<path stroke="#e40000" vector-effect="non-scaling-stroke" d="
+  M 298.75 683.04
+  Q 300.32 682.48 302.00 682.49
+  Q 321.34 682.60 340.69 682.68
+  A 0.49 0.49 0.6 0 0 341.19 682.19
+  Q 341.35 651.53 341.25 642.00
+  Q 341.24 640.76 341.54 640.25"
+/>
+<path stroke="#ee0000" vector-effect="non-scaling-stroke" d="
+  M 341.54 640.25
+  L 383.19 640.01
+  A 0.81 0.80 -0.0 0 0 384.00 639.21
+  L 383.96 597.25"
+/>
+<path stroke="#db0000" vector-effect="non-scaling-stroke" d="
+  M 383.96 597.25
+  L 384.04 555.00"
+/>
+<path stroke="#eb0000" vector-effect="non-scaling-stroke" d="
+  M 384.04 555.00
+  Q 385.24 554.52 388.00 554.50
+  Q 407.00 554.36 425.30 554.74
+  A 1.18 1.18 0.5 0 0 426.50 553.56
+  L 426.46 512.00"
+/>
+<path stroke="#db0000" vector-effect="non-scaling-stroke" d="
+  M 426.46 512.00
+  Q 426.91 510.19 426.76 508.37
+  Q 426.49 505.18 426.49 505.10
+  Q 426.36 485.48 426.75 472.00
+  Q 426.80 470.25 426.46 469.25"
+/>
+<path stroke="#ee0000" vector-effect="non-scaling-stroke" d="
+  M 426.46 469.25
+  Q 426.85 467.71 426.72 466.17
+  Q 426.50 463.38 426.50 463.30
+  Q 426.50 445.51 426.50 427.42
+  A 0.69 0.68 0.4 0 0 425.82 426.74
+  L 383.79 426.50"
+/>
+<path stroke="#e40000" vector-effect="non-scaling-stroke" d="
+  M 383.79 426.50
+  L 383.96 384.25"
+/>
+<path stroke="#f70000" vector-effect="non-scaling-stroke" d="
+  M 383.96 384.25
+  L 384.00 342.36
+  A 1.06 1.05 0.3 0 0 382.95 341.31
+  Q 365.34 341.20 347.75 341.25
+  Q 345.18 341.26 343.48 341.63
+  A 1.91 1.04 34.0 0 1 342.54 341.54
+  Q 341.57 341.22 341.29 342.25"
+/>
+<path stroke="#ce0000" stroke-opacity="0.969" vector-effect="non-scaling-stroke" d="
+  M 341.29 342.25
+  L 341.21 341.25"
+/>
+<path stroke="#e80000" vector-effect="non-scaling-stroke" d="
+  M 341.21 341.25
+  L 341.25 299.25
+  A 0.50 0.50 -45.0 0 0 340.75 298.75
+  L 299.56 298.75
+  A 0.56 0.56 0.0 0 0 299.00 299.31
+  L 298.96 340.75"
+/>
+<path stroke="#ce0000" stroke-opacity="0.969" vector-effect="non-scaling-stroke" d="
+  M 298.96 340.75
+  L 298.79 340.75"
+/>
+<path stroke="#c50001" stroke-opacity="0.769" vector-effect="non-scaling-stroke" d="
+  M 298.79 340.75
+  L 298.50 298.54"
+/>
+<path stroke="#db0000" vector-effect="non-scaling-stroke" d="
+  M 298.50 298.54
+  L 298.46 255.75"
+/>
+<path stroke="#7f1617" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 469.46 255.50
+  Q 469.01 256.00 468.00 256.00
+  Q 447.40 256.00 426.79 256.00"
+/>
+<path stroke="#bf0001" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 426.79 256.00
+  Q 426.41 255.58 426.50 255.04"
+/>
+<path stroke="#992223" vector-effect="non-scaling-stroke" d="
+  M 597.29 248.50
+  L 597.21 256.00"
+/>
+<path stroke="#682728" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 597.21 256.00
+  L 554.79 256.00"
+/>
+<path stroke="#c90000" vector-effect="non-scaling-stroke" d="
+  M 767.96 255.50
+  Q 767.51 256.00 766.50 256.00
+  Q 746.02 256.00 725.54 256.00"
+/>
+<path stroke="#c90000" vector-effect="non-scaling-stroke" d="
+  M 597.54 299.00
+  Q 597.50 298.57 597.21 298.25"
+/>
+<path stroke="#ae0000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 597.21 298.25
+  L 597.21 256.00"
+/>
+<path stroke="#b60d0e" vector-effect="non-scaling-stroke" d="
+  M 426.79 256.00
+  Q 426.48 259.13 426.57 262.28
+  Q 426.75 268.14 426.75 268.22
+  Q 426.73 283.61 426.79 299.00"
+/>
+<path stroke="#cc0000" vector-effect="non-scaling-stroke" d="
+  M 426.79 299.00
+  Q 426.88 300.05 426.54 301.00"
+/>
+<path stroke="#960001" stroke-opacity="0.769" vector-effect="non-scaling-stroke" d="
+  M 298.50 298.54
+  L 256.57 298.68
+  A 0.43 0.31 72.7 0 1 256.25 298.44
+  Q 256.18 298.30 256.04 298.25"
+/>
+<path stroke="#9f0001" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 256.04 298.25
+  L 255.96 256.25"
+/>
+<path stroke="#7d2b2d" vector-effect="non-scaling-stroke" d="
+  M 469.54 298.50
+  Q 469.57 298.92 469.25 299.04"
+/>
+<path stroke="#a60d0e" vector-effect="non-scaling-stroke" d="
+  M 469.25 299.04
+  Q 448.02 298.34 426.79 299.00"
+/>
+<path stroke="#8d2021" vector-effect="non-scaling-stroke" d="
+  M 768.04 256.00
+  L 768.25 298.50"
+/>
+<path stroke="#9b1516" vector-effect="non-scaling-stroke" d="
+  M 768.25 298.50
+  Q 767.93 298.44 767.79 298.61
+  A 0.73 0.27 -55.4 0 1 767.33 298.93
+  L 726.06 298.75
+  A 0.57 0.56 90.0 0 0 725.50 299.32
+  L 725.46 308.75"
+/>
+<path stroke="#c30000" vector-effect="non-scaling-stroke" d="
+  M 725.46 308.75
+  L 725.25 298.54"
+/>
+<path stroke="#473e42" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 213.29 256.25
+  L 213.25 297.99
+  A 0.51 0.49 -90.0 0 0 213.74 298.50
+  L 255.96 298.75"
+/>
+<path stroke="#523134" stroke-opacity="0.769" vector-effect="non-scaling-stroke" d="
+  M 255.96 298.75
+  L 256.25 341.21"
+/>
+<path stroke="#52484c" vector-effect="non-scaling-stroke" d="
+  M 256.25 341.21
+  L 255.75 341.29"
+/>
+<path stroke="#6f3235" vector-effect="non-scaling-stroke" d="
+  M 341.21 469.50
+  L 341.29 470.00"
+/>
+<path stroke="#473e42" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 341.29 470.00
+  Q 341.28 489.13 341.25 508.25
+  Q 341.25 511.20 341.00 512.04"
+/>
+<path stroke="#594548" vector-effect="non-scaling-stroke" d="
+  M 298.50 554.46
+  L 298.25 554.54"
+/>
+<path stroke="#65292b" stroke-opacity="0.898" vector-effect="non-scaling-stroke" d="
+  M 298.21 597.50
+  Q 298.74 599.81 298.69 603.69
+  Q 298.57 612.30 298.71 639.50"
+/>
+<path stroke="#4f3336" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 298.71 639.50
+  Q 298.41 640.00 297.25 640.00
+  Q 276.62 640.00 256.00 640.00"
+/>
+<path stroke="#4f3336" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 256.00 640.00
+  L 256.29 682.75"
+/>
+<path stroke="#77272a" vector-effect="non-scaling-stroke" d="
+  M 256.29 682.75
+  Q 256.25 682.96 256.04 683.00"
+/>
+<path stroke="#474145" stroke-opacity="0.569" vector-effect="non-scaling-stroke" d="
+  M 256.04 683.00
+  Q 255.70 682.50 254.50 682.50
+  Q 234.50 682.50 214.49 682.50
+  A 1.24 1.24 0.0 0 0 213.25 683.74
+  Q 213.27 703.22 213.31 722.94
+  Q 213.32 724.76 213.75 725.46"
+/>
+<path stroke="#6d3538" vector-effect="non-scaling-stroke" d="
+  M 213.75 725.46
+  L 213.29 726.50"
+/>
+<path stroke="#9f0000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 597.21 298.25
+  Q 571.25 298.82 557.50 298.50
+  Q 555.58 298.45 554.79 299.00"
+/>
+<path stroke="#562e31" stroke-opacity="0.769" vector-effect="non-scaling-stroke" d="
+  M 298.21 341.50
+  L 256.25 341.21"
+/>
+<path stroke="#a00001" stroke-opacity="0.624" vector-effect="non-scaling-stroke" d="
+  M 554.79 299.00
+  L 554.50 341.50"
+/>
+<path stroke="#7d1517" stroke-opacity="0.624" vector-effect="non-scaling-stroke" d="
+  M 554.50 341.50
+  Q 536.71 341.11 531.56 341.31
+  Q 521.90 341.69 512.25 341.21"
+/>
+<path stroke="#5d2f33" stroke-opacity="0.624" vector-effect="non-scaling-stroke" d="
+  M 512.04 340.00
+  L 512.00 299.53
+  A 0.81 0.79 -0.4 0 1 512.80 298.74
+  L 554.46 298.50"
+/>
+<path stroke="#d10000" vector-effect="non-scaling-stroke" d="
+  M 597.21 341.75
+  L 554.50 341.50"
+/>
+<path stroke="#6f2224" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 512.04 340.00
+  Q 512.15 340.64 511.85 340.99
+  Q 511.63 341.25 511.05 341.25
+  Q 490.30 341.36 469.54 341.25"
+/>
+<path stroke="#a61e1f" vector-effect="non-scaling-stroke" d="
+  M 469.54 341.25
+  L 469.21 340.75"
+/>
+<path stroke="#931e1f" vector-effect="non-scaling-stroke" d="
+  M 469.21 340.75
+  L 469.25 299.04"
+/>
+<path stroke="#a81516" vector-effect="non-scaling-stroke" d="
+  M 725.46 308.75
+  Q 725.57 332.55 725.50 340.75
+  Q 725.50 341.33 726.00 341.29"
+/>
+<path stroke="#c30000" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 726.00 341.29
+  Q 725.85 341.59 725.50 341.54"
+/>
+<path stroke="#b50607" vector-effect="non-scaling-stroke" d="
+  M 725.50 341.54
+  L 682.79 341.25"
+/>
+<path stroke="#df0000" vector-effect="non-scaling-stroke" d="
+  M 682.79 341.25
+  Q 682.82 340.83 682.50 340.71"
+/>
+<path stroke="#673a3d" vector-effect="non-scaling-stroke" d="
+  M 768.00 340.96
+  Q 767.68 341.25 767.25 341.29"
+/>
+<path stroke="#782729" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 767.25 341.29
+  L 726.00 341.29"
+/>
+<path stroke="#4a4549" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 768.00 384.00
+  Q 768.00 363.17 768.00 342.35
+  Q 768.00 341.95 767.81 341.72
+  Q 767.58 341.46 767.25 341.29"
+/>
+<path stroke="#b50000" stroke-opacity="0.969" vector-effect="non-scaling-stroke" d="
+  M 341.21 341.25
+  L 299.60 341.19
+  A 0.64 0.39 -9.4 0 1 299.11 340.99
+  L 298.96 340.75"
+/>
+<path stroke="#cf0000" vector-effect="non-scaling-stroke" d="
+  M 469.21 340.75
+  L 467.93 341.27
+  Q 467.38 341.49 467.00 341.50
+  L 426.79 341.75"
+/>
+<path stroke="#860f10" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 512.25 341.21
+  Q 511.52 341.49 511.94 342.06
+  Q 511.88 362.89 512.00 383.71"
+/>
+<path stroke="#b70000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 512.00 383.71
+  L 469.50 384.04"
+/>
+<path stroke="#b50000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 469.00 383.71
+  Q 469.52 382.45 469.50 380.25
+  Q 469.42 372.77 469.54 341.25"
+/>
+<path stroke="#c50000" stroke-opacity="0.969" vector-effect="non-scaling-stroke" d="
+  M 341.29 342.25
+  L 341.21 384.00"
+/>
+<path stroke="#861b1c" stroke-opacity="0.969" vector-effect="non-scaling-stroke" d="
+  M 341.21 384.00
+  L 298.75 383.71"
+/>
+<path stroke="#762526" stroke-opacity="0.969" vector-effect="non-scaling-stroke" d="
+  M 298.75 383.71
+  Q 298.60 364.20 298.74 344.69
+  Q 298.75 343.05 298.21 341.50"
+/>
+<path stroke="#c40607" vector-effect="non-scaling-stroke" d="
+  M 682.79 341.25
+  L 682.46 383.75"
+/>
+<path stroke="#df0000" vector-effect="non-scaling-stroke" d="
+  M 682.46 383.75
+  Q 682.16 383.70 682.03 383.87
+  A 0.69 0.31 -58.9 0 1 681.59 384.18
+  L 640.29 384.00"
+/>
+<path stroke="#bb0d0e" vector-effect="non-scaling-stroke" d="
+  M 512.00 383.71
+  L 553.97 383.99
+  A 0.52 0.52 0.0 0 0 554.49 383.47
+  L 554.50 341.50"
+/>
+<path stroke="#653d40" vector-effect="non-scaling-stroke" d="
+  M 298.75 383.71
+  Q 298.34 383.69 298.25 383.96"
+/>
+<path stroke="#db0000" vector-effect="non-scaling-stroke" d="
+  M 383.96 384.25
+  Q 363.20 383.67 342.44 384.11
+  Q 341.33 384.14 341.29 385.25"
+/>
+<path stroke="#b21a1b" vector-effect="non-scaling-stroke" d="
+  M 341.29 385.25
+  L 341.21 384.00"
+/>
+<path stroke="#910b0c" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 725.50 341.54
+  Q 724.91 361.39 725.46 381.25"
+/>
+<path stroke="#81090a" stroke-opacity="0.702" vector-effect="non-scaling-stroke" d="
+  M 725.46 381.25
+  Q 725.56 382.71 724.87 383.78
+  A 0.98 0.88 15.5 0 1 724.06 384.18
+  Q 704.66 383.86 685.25 384.00
+  Q 683.20 384.01 682.54 384.75"
+/>
+<path stroke="#b50607" vector-effect="non-scaling-stroke" d="
+  M 682.54 384.75
+  L 682.46 383.75"
+/>
+<path stroke="#4a4549" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 768.00 384.00
+  L 725.75 383.96"
+/>
+<path stroke="#4b3539" stroke-opacity="0.702" vector-effect="non-scaling-stroke" d="
+  M 725.75 383.96
+  Q 725.31 384.14 725.31 384.94
+  Q 725.36 405.19 725.31 425.86
+  A 0.83 0.83 89.6 0 1 724.48 426.69
+  L 682.79 426.75"
+/>
+<path stroke="#a70001" stroke-opacity="0.702" vector-effect="non-scaling-stroke" d="
+  M 682.71 424.75
+  L 682.54 384.75"
+/>
+<path stroke="#9f1a1b" vector-effect="non-scaling-stroke" d="
+  M 341.29 385.25
+  Q 341.87 405.88 341.21 426.50"
+/>
+<path stroke="#aa0000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 682.71 424.75
+  Q 682.79 427.11 680.77 426.90
+  Q 679.34 426.75 679.21 426.76
+  Q 660.00 426.88 640.81 426.57
+  A 0.51 0.50 -88.9 0 0 640.30 427.07
+  Q 640.01 441.56 640.20 456.06
+  Q 640.28 462.41 639.96 468.75"
+/>
+<path stroke="#c00000" vector-effect="non-scaling-stroke" d="
+  M 639.96 468.75
+  Q 639.51 469.25 638.50 469.25
+  Q 618.02 469.25 597.54 469.25"
+/>
+<path stroke="#d20000" vector-effect="non-scaling-stroke" d="
+  M 383.79 426.50
+  L 383.75 426.71"
+/>
+<path stroke="#ac0d0e" vector-effect="non-scaling-stroke" d="
+  M 383.75 426.71
+  L 341.29 426.75"
+/>
+<path stroke="#6d3538" vector-effect="non-scaling-stroke" d="
+  M 725.75 597.29
+  L 725.50 597.21"
+/>
+<path stroke="#474145" stroke-opacity="0.569" vector-effect="non-scaling-stroke" d="
+  M 725.50 597.21
+  L 725.50 555.95
+  A 1.39 1.36 89.8 0 0 724.13 554.56
+  L 683.75 554.71"
+/>
+<path stroke="#77272a" vector-effect="non-scaling-stroke" d="
+  M 683.75 554.71
+  Q 683.20 554.37 682.50 554.46"
+/>
+<path stroke="#4f3336" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 682.50 554.46
+  L 682.46 512.25"
+/>
+<path stroke="#55474a" vector-effect="non-scaling-stroke" d="
+  M 682.46 512.25
+  L 682.54 512.00"
+/>
+<path stroke="#55474a" vector-effect="non-scaling-stroke" d="
+  M 682.79 469.25
+  L 682.71 468.75"
+/>
+<path stroke="#602b2d" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 682.71 468.75
+  L 682.79 426.75"
+/>
+<path stroke="#682728" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 682.71 468.75
+  Q 681.32 469.24 676.94 469.31
+  Q 658.61 469.62 640.29 469.25"
+/>
+<path stroke="#980000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 640.29 469.25
+  L 639.96 468.75"
+/>
+<path stroke="#c90000" vector-effect="non-scaling-stroke" d="
+  M 426.46 469.25
+  Q 406.75 469.25 387.04 469.25
+  Q 386.30 469.25 385.52 469.54
+  Q 384.80 469.80 384.04 470.00"
+/>
+<path stroke="#bf0001" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 384.04 470.00
+  L 383.96 469.50"
+/>
+<path stroke="#b60d0e" vector-effect="non-scaling-stroke" d="
+  M 383.96 469.50
+  L 383.75 426.71"
+/>
+<path stroke="#7f1617" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 383.96 469.50
+  Q 375.87 469.28 343.31 469.44
+  Q 341.77 469.45 341.29 470.00"
+/>
+<path stroke="#862223" vector-effect="non-scaling-stroke" d="
+  M 640.29 469.25
+  L 640.00 512.00"
+/>
+<path stroke="#c00000" vector-effect="non-scaling-stroke" d="
+  M 640.00 512.00
+  Q 639.60 511.29 639.24 511.55
+  A 1.30 0.32 -39.5 0 1 638.43 511.94
+  L 597.54 512.00"
+/>
+<path stroke="#582e31" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 682.46 512.25
+  L 640.00 512.00"
+/>
+<path stroke="#9f0001" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 384.04 470.00
+  L 384.04 511.75"
+/>
+<path stroke="#ba0001" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 384.04 511.75
+  L 383.96 512.00"
+/>
+<path stroke="#722326" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 383.96 512.00
+  Q 363.91 512.00 343.87 512.00
+  Q 343.78 512.00 342.65 511.89
+  Q 341.09 511.73 341.46 513.50"
+/>
+<path stroke="#c60000" vector-effect="non-scaling-stroke" d="
+  M 426.46 512.00
+  L 384.04 511.75"
+/>
+<path stroke="#c60000" vector-effect="non-scaling-stroke" d="
+  M 384.04 555.00
+  L 383.96 553.75"
+/>
+<path stroke="#ab1516" vector-effect="non-scaling-stroke" d="
+  M 383.96 553.75
+  L 384.00 513.99
+  Q 384.00 513.70 383.67 513.12
+  Q 383.36 512.57 383.96 512.00"
+/>
+<path stroke="#a60001" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 640.00 512.00
+  L 640.00 554.46"
+/>
+<path stroke="#9b1516" vector-effect="non-scaling-stroke" d="
+  M 383.96 553.75
+  Q 383.89 555.12 382.94 554.56
+  Q 362.20 555.07 341.46 554.50"
+/>
+<path stroke="#860305" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 682.50 554.46
+  Q 663.13 554.53 643.75 554.50
+  Q 641.31 554.50 640.29 555.00"
+/>
+<path stroke="#c90000" vector-effect="non-scaling-stroke" d="
+  M 383.96 597.25
+  Q 363.25 597.72 342.53 597.32
+  Q 341.95 597.31 341.69 597.60
+  Q 341.36 597.94 341.29 598.50"
+/>
+<path stroke="#9f0000" stroke-opacity="0.898" vector-effect="non-scaling-stroke" d="
+  M 341.29 598.50
+  L 341.21 597.25"
+/>
+<path stroke="#8d2021" vector-effect="non-scaling-stroke" d="
+  M 341.21 597.25
+  Q 341.93 576.00 341.21 554.75"
+/>
+<path stroke="#712325" stroke-opacity="0.898" vector-effect="non-scaling-stroke" d="
+  M 341.21 597.25
+  Q 321.99 597.36 302.77 597.25
+  Q 302.70 597.25 301.26 597.41
+  Q 299.87 597.57 298.79 596.50"
+/>
+<path stroke="#8f0405" stroke-opacity="0.569" vector-effect="non-scaling-stroke" d="
+  M 683.75 554.71
+  Q 682.46 554.47 682.59 555.12
+  Q 682.75 555.91 682.75 555.93
+  Q 682.93 576.44 682.50 596.96"
+/>
+<path stroke="#bb0203" vector-effect="non-scaling-stroke" d="
+  M 682.50 596.96
+  Q 680.20 597.56 676.75 597.50
+  Q 661.98 597.23 640.29 597.75"
+/>
+<path stroke="#7d1b1d" stroke-opacity="0.569" vector-effect="non-scaling-stroke" d="
+  M 725.50 597.21
+  L 682.79 597.25"
+/>
+<path stroke="#bf0000" stroke-opacity="0.569" vector-effect="non-scaling-stroke" d="
+  M 682.79 597.25
+  Q 682.73 597.02 682.50 596.96"
+/>
+<path stroke="#b50000" stroke-opacity="0.898" vector-effect="non-scaling-stroke" d="
+  M 341.29 598.50
+  L 341.29 638.75"
+/>
+<path stroke="#a90000" stroke-opacity="0.898" vector-effect="non-scaling-stroke" d="
+  M 341.29 638.75
+  Q 341.52 640.11 340.81 639.96
+  Q 340.14 639.82 340.02 639.82
+  Q 319.88 640.29 299.75 639.75
+  Q 299.25 639.74 298.79 640.25"
+/>
+<path stroke="#b11011" vector-effect="non-scaling-stroke" d="
+  M 682.79 597.25
+  Q 682.41 599.35 682.50 602.75
+  Q 682.94 618.65 682.50 639.96"
+/>
+<path stroke="#d20000" vector-effect="non-scaling-stroke" d="
+  M 341.54 640.25
+  Q 341.63 639.43 341.29 638.75"
+/>
+<path stroke="#dd0000" vector-effect="non-scaling-stroke" d="
+  M 512.00 597.29
+  Q 512.17 618.15 511.67 639.00
+  Q 511.66 639.59 512.04 640.00"
+/>
+<path stroke="#ad0000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 512.04 640.00
+  L 511.96 640.25"
+/>
+<path stroke="#aa1516" vector-effect="non-scaling-stroke" d="
+  M 511.96 640.25
+  Q 490.88 639.59 469.81 640.30
+  A 0.50 0.49 -1.2 0 0 469.32 640.80
+  Q 469.85 661.53 469.21 682.25"
+/>
+<path stroke="#b90203" vector-effect="non-scaling-stroke" d="
+  M 469.21 682.25
+  L 426.75 682.71"
+/>
+<path stroke="#e10000" vector-effect="non-scaling-stroke" d="
+  M 426.75 682.71
+  Q 426.89 682.24 426.54 682.00"
+/>
+<path stroke="#de0000" vector-effect="non-scaling-stroke" d="
+  M 557.00 640.04
+  L 554.75 640.29"
+/>
+<path stroke="#b70000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 554.75 640.29
+  L 512.04 640.00"
+/>
+<path stroke="#a71011" vector-effect="non-scaling-stroke" d="
+  M 725.21 639.25
+  Q 724.57 640.00 724.00 640.00
+  Q 703.37 639.97 682.75 640.04"
+/>
+<path stroke="#b40203" vector-effect="non-scaling-stroke" d="
+  M 298.75 683.04
+  Q 298.41 682.87 298.46 682.50"
+/>
+<path stroke="#a10001" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 298.46 682.50
+  L 298.79 640.25"
+/>
+<path stroke="#991c1d" vector-effect="non-scaling-stroke" d="
+  M 725.54 640.00
+  Q 724.87 661.12 725.46 682.25"
+/>
+<path stroke="#d50000" vector-effect="non-scaling-stroke" d="
+  M 725.46 682.25
+  Q 722.97 682.87 720.46 682.77
+  Q 716.14 682.60 715.51 682.62
+  Q 711.25 682.74 705.25 682.50
+  Q 697.60 682.19 682.79 682.75"
+/>
+<path stroke="#860305" stroke-opacity="0.737" vector-effect="non-scaling-stroke" d="
+  M 298.46 682.50
+  L 256.29 682.75"
+/>
+<path stroke="#7d1819" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 511.96 640.25
+  Q 512.03 660.03 512.00 679.81
+  Q 512.00 679.94 511.87 681.17
+  Q 511.68 683.07 514.00 682.54"
+/>
+<path stroke="#6e3739" vector-effect="non-scaling-stroke" d="
+  M 514.00 682.54
+  L 512.04 683.00"
+/>
+<path stroke="#782729" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 512.04 683.00
+  Q 511.17 682.52 508.75 682.50
+  Q 489.02 682.31 469.29 682.75"
+/>
+<path stroke="#901719" vector-effect="non-scaling-stroke" d="
+  M 469.29 682.75
+  L 469.21 682.25"
+/>
+<path stroke="#ae0000" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 554.75 640.29
+  L 554.46 682.75"
+/>
+<path stroke="#682728" stroke-opacity="0.867" vector-effect="non-scaling-stroke" d="
+  M 554.46 682.75
+  L 514.00 682.54"
+/>
+<path stroke="#c30000" vector-effect="non-scaling-stroke" d="
+  M 597.21 682.00
+  Q 595.83 682.68 594.25 682.69
+  Q 575.12 682.75 556.00 682.75
+  Q 554.84 682.75 554.71 683.25"
+/>
+<path stroke="#992223" vector-effect="non-scaling-stroke" d="
+  M 554.71 683.25
+  Q 554.41 683.10 554.46 682.75"
+/>
+<path stroke="#623f42" vector-effect="non-scaling-stroke" d="
+  M 768.29 682.75
+  Q 768.31 683.16 768.04 683.25"
+/>
+<path stroke="#7d1e1f" stroke-opacity="0.933" vector-effect="non-scaling-stroke" d="
+  M 768.04 683.25
+  Q 767.09 682.55 766.19 682.56
+  Q 745.86 682.81 725.54 682.50"
+/>
+<path stroke="#ac1c1d" vector-effect="non-scaling-stroke" d="
+  M 725.54 682.50
+  L 725.46 682.25"
+/>
+<path stroke="#c70203" vector-effect="non-scaling-stroke" d="
+  M 426.75 682.71
+  L 426.50 725.21"
+/>
+<path stroke="#db0000" vector-effect="non-scaling-stroke" d="
+  M 426.50 725.21
+  L 384.29 725.25"
+/>
+<path stroke="#981516" vector-effect="non-scaling-stroke" d="
+  M 597.21 725.25
+  Q 576.86 725.86 556.50 725.26
+  Q 556.35 725.26 555.54 725.44
+  Q 554.82 725.59 554.79 724.50"
+/>
+<path stroke="#862223" vector-effect="non-scaling-stroke" d="
+  M 554.79 724.50
+  Q 554.83 723.24 554.68 721.99
+  Q 554.51 720.43 554.53 719.50
+  Q 554.91 701.38 554.71 683.25"
+/>
+<path stroke="#950405" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 469.29 682.75
+  L 469.29 721.75"
+/>
+<path stroke="#850305" stroke-opacity="0.702" vector-effect="non-scaling-stroke" d="
+  M 469.29 721.75
+  L 469.07 724.70
+  A 0.64 0.52 1.4 0 1 468.44 725.19
+  L 426.75 725.29"
+/>
+<path stroke="#b40203" vector-effect="non-scaling-stroke" d="
+  M 426.75 725.29
+  L 426.50 725.21"
+/>
+<path stroke="#be0000" stroke-opacity="0.933" vector-effect="non-scaling-stroke" d="
+  M 725.54 682.50
+  L 725.46 724.00"
+/>
+<path stroke="#dc0000" vector-effect="non-scaling-stroke" d="
+  M 725.46 724.00
+  Q 725.12 724.70 725.21 725.50"
+/>
+<path stroke="#8f0405" stroke-opacity="0.569" vector-effect="non-scaling-stroke" d="
+  M 256.04 683.00
+  L 255.71 725.50"
+/>
+<path stroke="#7d1b1d" stroke-opacity="0.569" vector-effect="non-scaling-stroke" d="
+  M 255.71 725.50
+  L 213.75 725.46"
+/>
+<path stroke="#bb0203" vector-effect="non-scaling-stroke" d="
+  M 298.46 725.75
+  Q 278.50 725.32 258.53 725.50
+  Q 258.42 725.50 257.49 725.43
+  Q 255.70 725.30 255.96 727.25"
+/>
+<path stroke="#951213" vector-effect="non-scaling-stroke" d="
+  M 255.96 727.25
+  Q 255.62 726.42 255.71 725.50"
+/>
+<path stroke="#573f42" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 512.04 683.00
+  L 512.25 725.25"
+/>
+<path stroke="#4a4549" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 512.25 725.25
+  L 469.79 725.50"
+/>
+<path stroke="#6e3739" vector-effect="non-scaling-stroke" d="
+  M 554.79 724.50
+  L 554.25 725.29"
+/>
+<path stroke="#6f2628" stroke-opacity="0.933" vector-effect="non-scaling-stroke" d="
+  M 768.04 683.25
+  L 767.96 724.75"
+/>
+<path stroke="#b10000" stroke-opacity="0.933" vector-effect="non-scaling-stroke" d="
+  M 767.96 724.75
+  Q 767.48 724.71 767.14 724.95
+  A 1.50 0.60 -45.4 0 1 766.31 725.31
+  L 726.00 725.25
+  A 0.54 0.49 88.1 0 1 725.51 724.74
+  L 725.46 724.00"
+/>
+<path stroke="#52484c" vector-effect="non-scaling-stroke" d="
+  M 810.75 725.21
+  L 810.50 725.29"
+/>
+<path stroke="#562e31" stroke-opacity="0.769" vector-effect="non-scaling-stroke" d="
+  M 810.50 725.29
+  L 768.29 725.25"
+/>
+<path stroke="#932325" vector-effect="non-scaling-stroke" d="
+  M 768.29 725.25
+  L 767.96 724.75"
+/>
+<path stroke="#4b3539" stroke-opacity="0.702" vector-effect="non-scaling-stroke" d="
+  M 469.79 725.50
+  Q 469.30 726.71 469.31 729.44
+  Q 469.38 748.47 469.26 766.62
+  A 1.34 1.33 0.2 0 1 467.92 767.94
+  L 426.79 768.00"
+/>
+<path stroke="#a20001" stroke-opacity="0.702" vector-effect="non-scaling-stroke" d="
+  M 426.79 768.00
+  L 426.75 725.29"
+/>
+<path stroke="#a70001" stroke-opacity="0.769" vector-effect="non-scaling-stroke" d="
+  M 768.29 725.25
+  L 767.96 767.75"
+/>
+<path stroke="#a81516" vector-effect="non-scaling-stroke" d="
+  M 597.46 766.25
+  L 597.50 768.25"
+/>
+<path stroke="#782729" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 597.50 768.25
+  Q 569.46 767.65 556.75 768.00
+  Q 554.84 768.05 554.54 766.75"
+/>
+<path stroke="#b11011" vector-effect="non-scaling-stroke" d="
+  M 255.96 727.25
+  L 255.96 768.00"
+/>
+<path stroke="#a71011" vector-effect="non-scaling-stroke" d="
+  M 255.96 768.00
+  L 213.46 767.75"
+/>
+<path stroke="#8b2527" vector-effect="non-scaling-stroke" d="
+  M 426.79 768.00
+  L 426.71 768.50"
+/>
+<path stroke="#a90000" stroke-opacity="0.898" vector-effect="non-scaling-stroke" d="
+  M 426.71 768.50
+  Q 422.86 768.00 415.75 768.00
+  Q 400.02 768.00 384.29 768.00"
+/>
+<path stroke="#d50000" vector-effect="non-scaling-stroke" d="
+  M 384.29 768.00
+  Q 384.37 767.37 384.04 767.00"
+/>
+<path stroke="#4a4549" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 554.46 768.00
+  Q 555.08 787.12 554.69 800.94
+  Q 554.51 807.03 554.66 810.07
+  A 0.52 0.52 88.9 0 0 555.18 810.57
+  L 597.21 810.75"
+/>
+<path stroke="#4b3539" stroke-opacity="0.702" vector-effect="non-scaling-stroke" d="
+  M 597.21 810.75
+  Q 597.65 831.88 597.04 853.00"
+/>
+<path stroke="#65292b" stroke-opacity="0.898" vector-effect="non-scaling-stroke" d="
+  M 426.75 810.50
+  L 426.71 768.50"
+/>
+<path stroke="#b80203" vector-effect="non-scaling-stroke" d="
+  M 639.71 767.75
+  Q 620.82 768.24 606.25 768.00
+  Q 601.04 767.91 597.50 768.25"
+/>
+<path stroke="#523134" stroke-opacity="0.769" vector-effect="non-scaling-stroke" d="
+  M 810.50 725.29
+  L 810.79 768.00"
+/>
+<path stroke="#960001" stroke-opacity="0.769" vector-effect="non-scaling-stroke" d="
+  M 810.54 768.50
+  L 810.51 768.28
+  A 0.31 0.27 -4.4 0 0 810.21 768.06
+  L 768.25 768.04"
+/>
+<path stroke="#473e42" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 853.21 768.00
+  L 810.79 768.00"
+/>
+<path stroke="#cc0000" vector-effect="non-scaling-stroke" d="
+  M 256.04 768.25
+  L 255.96 768.00"
+/>
+<path stroke="#950405" stroke-opacity="0.537" vector-effect="non-scaling-stroke" d="
+  M 597.50 768.25
+  L 597.46 769.25"
+/>
+<path stroke="#b80000" stroke-opacity="0.898" vector-effect="non-scaling-stroke" d="
+  M 384.29 768.00
+  L 383.96 810.50"
+/>
+<path stroke="#c30000" vector-effect="non-scaling-stroke" d="
+  M 383.96 810.50
+  Q 362.48 811.16 341.00 810.46"
+/>
+<path stroke="#b30000" vector-effect="non-scaling-stroke" d="
+  M 256.00 810.46
+  Q 235.09 811.08 214.18 810.57
+  A 0.52 0.51 90.0 0 1 213.68 810.06
+  L 213.29 769.25"
+/>
+<path stroke="#991c1d" vector-effect="non-scaling-stroke" d="
+  M 213.29 769.25
+  L 213.21 768.00"
+/>
+<path stroke="#c70203" vector-effect="non-scaling-stroke" d="
+  M 640.00 768.04
+  L 639.79 810.50"
+/>
+<path stroke="#a20203" vector-effect="non-scaling-stroke" d="
+  M 639.79 810.50
+  L 639.71 810.75"
+/>
+<path stroke="#850305" stroke-opacity="0.702" vector-effect="non-scaling-stroke" d="
+  M 639.71 810.75
+  Q 618.85 810.13 598.02 810.75
+  A 0.51 0.50 -0.6 0 1 597.50 810.25
+  L 597.46 769.25"
+/>
+<path stroke="#9f0001" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 810.54 768.50
+  Q 810.45 768.88 810.54 769.25"
+/>
+<path stroke="#a60a0b" vector-effect="non-scaling-stroke" d="
+  M 810.54 769.25
+  L 810.46 810.25"
+/>
+<path stroke="#ad0000" vector-effect="non-scaling-stroke" d="
+  M 810.46 810.25
+  Q 809.52 811.10 808.17 810.95
+  Q 806.38 810.76 806.31 810.76
+  Q 787.05 810.90 767.79 810.50"
+/>
+<path stroke="#831012" stroke-opacity="0.592" vector-effect="non-scaling-stroke" d="
+  M 853.21 810.50
+  L 811.37 810.55
+  A 0.65 0.63 90.0 0 1 810.74 809.90
+  L 810.54 769.25"
+/>
+<path stroke="#8a1c1d" vector-effect="non-scaling-stroke" d="
+  M 213.29 769.25
+  L 213.25 809.98
+  A 0.73 0.72 -0.4 0 1 212.53 810.70
+  L 170.79 810.75"
+/>
+<path stroke="#4a212a" vector-effect="non-scaling-stroke" d="
+  M 170.79 810.75
+  L 170.71 810.25"
+/>
+<path stroke="#752123" stroke-opacity="0.898" vector-effect="non-scaling-stroke" d="
+  M 426.75 810.50
+  L 384.04 810.75"
+/>
+<path stroke="#950000" stroke-opacity="0.898" vector-effect="non-scaling-stroke" d="
+  M 384.04 810.75
+  L 383.96 810.50"
+/>
+<path stroke="#c90000" vector-effect="non-scaling-stroke" d="
+  M 764.00 810.54
+  Q 763.39 810.75 761.75 810.75
+  Q 700.77 810.77 639.79 810.50"
+/>
+<path stroke="#871e1f" vector-effect="non-scaling-stroke" d="
+  M 384.04 810.75
+  L 384.00 853.21"
+/>
+<path stroke="#65060d" vector-effect="non-scaling-stroke" d="
+  M 171.25 853.21
+  Q 170.56 852.75 170.56 852.19
+  Q 170.85 831.47 170.79 810.75"
+/>
+<path stroke="#9a0000" stroke-opacity="0.933" vector-effect="non-scaling-stroke" d="
+  M 212.70 815.28
+  Q 212.87 813.84 212.81 813.16
+  Q 212.61 811.00 210.45 811.00
+  Q 191.75 811.00 174.75 811.00
+  Q 173.97 811.00 172.54 811.51
+  A 0.42 0.38 65.1 0 0 172.36 812.09
+  Q 172.71 812.73 172.03 813.12
+  A 0.91 0.72 -17.6 0 0 171.56 813.82
+  L 171.50 852.24
+  A 0.51 0.51 0.0 0 0 172.01 852.75
+  L 211.41 852.75
+  A 1.59 1.59 89.8 0 0 213.00 851.16
+  Q 213.00 835.50 213.00 819.75
+  Q 213.00 819.29 212.72 817.36
+  Q 212.57 816.36 212.70 815.28"
+/>
+<path stroke="#890001" stroke-opacity="0.702" vector-effect="non-scaling-stroke" d="
+  M 639.71 810.75
+  Q 640.01 811.26 640.00 812.50
+  Q 639.92 820.19 640.04 853.25"
+/>
+<path stroke="#9d0a0b" vector-effect="non-scaling-stroke" d="
+  M 811.00 853.21
+  Q 810.98 852.66 810.75 852.18
+  Q 810.50 851.65 810.50 851.24
+  L 810.46 810.25"
+/>
+<path stroke="#b2c2bc" vector-effect="non-scaling-stroke" d="
+  M 896.00 896.00
+  L 896.00 937.84
+  A 0.69 0.67 -0.4 0 1 895.32 938.51
+  L 892.00 938.54"
+/>
+<path stroke="#aab09c" vector-effect="non-scaling-stroke" d="
+  M 892.00 938.54
+  L 128.00 938.46"
+/>
+<path stroke="#b2c2bc" vector-effect="non-scaling-stroke" d="
+  M 128.00 938.46
+  L 127.94 897.38
+  A 1.39 1.38 0.0 0 0 126.55 896.00
+  L 85.29 896.00"
+/>
+<path stroke="#aab09c" vector-effect="non-scaling-stroke" d="
+  M 85.29 896.00
+  L 85.21 895.75"
+/>
+<path stroke="#b2c2bc" vector-effect="non-scaling-stroke" d="
+  M 938.50 896.00
+  L 896.00 896.00"
+/>
+<path stroke="#453f3f" vector-effect="non-scaling-stroke" d="
+  M 981.46 938.75
+  Q 960.48 938.13 939.50 938.74
+  A 0.52 0.50 -0.6 0 0 938.99 939.24
+  L 938.44 980.69
+  A 0.51 0.50 -89.4 0 1 937.94 981.19
+  Q 306.25 981.35 90.50 981.25
+  Q 86.87 981.25 85.25 981.50"
+/>
+<path stroke="#7d8381" vector-effect="non-scaling-stroke" d="
+  M 85.25 938.75
+  L 128.00 938.46"
+/>
+<path stroke="#7d8381" vector-effect="non-scaling-stroke" d="
+  M 892.00 938.54
+  L 937.94 938.45
+  A 0.51 0.50 -90.0 0 0 938.44 937.94
+  L 938.50 896.00"
+/>
+<path stroke="#7d8381" vector-effect="non-scaling-stroke" d="
+  M 85.29 896.00
+  Q 85.84 917.38 85.25 938.75"
+/>
+<path stroke="#14091b" stroke-opacity="0.988" vector-effect="non-scaling-stroke" d="
+  M 937.69 1024.00
+  Q 937.61 1023.75 937.00 1023.75
+  Q 512.00 1023.75 87.00 1023.75
+  Q 86.17 1023.75 85.94 1024.00"
+/>
+</g>
+<path fill="#0f0815" d="
+  M 85.56 0.00
+  L 938.31 0.00
+  Q 939.03 0.73 938.71 1.75
+  L 938.11 0.78
+  A 0.96 0.62 67.9 0 0 937.44 0.31
+  L 85.50 0.21
+  L 85.56 0.00
+  Z"
+/>
+<path fill="#140c1c" d="
+  M 85.50 0.21
+  L 937.44 0.31
+  A 0.96 0.62 67.9 0 1 938.11 0.78
+  L 938.71 1.75
+  L 938.57 41.67
+  A 0.83 0.82 90.0 0 0 939.39 42.50
+  L 980.65 42.56
+  A 0.65 0.65 89.6 0 1 981.30 43.21
+  L 981.31 84.94
+  A 0.50 0.50 -45.0 0 0 981.81 85.44
+  Q 1002.44 85.17 1023.06 85.31
+  Q 1023.63 85.31 1024.00 85.81
+  L 1024.00 938.56
+  L 981.54 938.50
+  Q 980.90 918.84 981.25 907.00
+  Q 981.58 895.70 981.29 888.50
+  Q 981.22 512.68 981.25 136.87
+  Q 981.25 136.82 981.40 132.64
+  Q 981.48 130.32 981.21 128.00
+  L 981.42 86.54
+  A 1.31 1.30 89.4 0 0 980.08 85.22
+  Q 959.00 85.86 939.00 85.25
+  A 0.26 0.25 1.2 0 1 938.75 85.00
+  L 938.50 43.25
+  A 0.51 0.50 89.4 0 0 938.00 42.75
+  Q 879.28 42.52 752.75 42.50
+  Q 419.47 42.45 85.74 42.56
+  A 0.24 0.24 -45.0 0 0 85.50 42.80
+  L 85.32 84.59
+  A 0.65 0.64 89.6 0 1 84.69 85.24
+  L 43.25 85.50
+  A 0.51 0.51 -0.4 0 0 42.75 86.00
+  L 42.54 127.75
+  Q 42.69 130.40 42.69 133.06
+  Q 42.36 337.03 42.33 541.00
+  Q 42.30 718.50 42.79 896.00
+  L 42.75 938.25
+  A 0.25 0.25 -45.0 0 0 43.00 938.50
+  L 85.25 938.75
+  L 85.25 981.50
+  L 43.30 981.26
+  A 0.75 0.73 0.4 0 1 42.56 980.53
+  L 42.68 939.20
+  A 0.69 0.69 -89.6 0 0 41.99 938.50
+  L 1.25 938.54
+  Q 0.33 938.52 0.41 937.70
+  Q 0.48 936.89 0.47 936.80
+  Q 0.25 932.92 0.25 925.50
+  Q 0.25 507.50 0.25 89.50
+  Q 0.25 88.17 0.00 87.69
+  L 0.00 85.44
+  L 41.99 85.43
+  A 0.69 0.66 0.0 0 0 42.68 84.77
+  L 42.56 43.30
+  A 0.62 0.59 90.0 0 1 43.15 42.68
+  L 84.45 42.69
+  A 1.05 1.02 0.0 0 0 85.50 41.67
+  Q 85.60 22.00 85.25 2.25
+  Q 85.22 0.81 85.50 0.21
+  Z"
+/>
+<path fill="#deeed6" d="
+  M 981.21 128.00
+  L 939.00 128.04
+  Q 938.58 128.07 938.46 127.75
+  Q 939.10 107.41 938.53 86.03
+  A 0.74 0.73 88.8 0 0 937.79 85.31
+  Q 920.05 85.62 902.17 85.51
+  Q 902.07 85.51 899.36 85.25
+  Q 897.80 85.11 896.25 85.54
+  Q 520.12 85.47 144.00 85.40
+  Q 136.00 85.40 128.00 85.29
+  L 86.05 85.32
+  A 0.74 0.72 0.0 0 0 85.31 86.04
+  L 85.50 127.96
+  Q 85.27 128.02 85.21 128.25
+  Q 63.03 127.73 47.75 128.00
+  Q 44.37 128.06 42.54 127.75
+  L 42.75 86.00
+  A 0.51 0.51 -2.2 0 1 43.25 85.50
+  L 84.69 85.24
+  A 0.65 0.64 89.6 0 0 85.32 84.59
+  L 85.50 42.80
+  A 0.24 0.24 -45.0 0 1 85.74 42.56
+  Q 419.47 42.45 752.75 42.50
+  Q 879.28 42.52 938.00 42.75
+  A 0.51 0.50 89.4 0 1 938.50 43.25
+  L 938.75 85.00
+  A 0.26 0.25 1.2 0 0 939.00 85.25
+  Q 959.00 85.86 980.08 85.22
+  A 1.31 1.30 89.4 0 1 981.42 86.54
+  L 981.21 128.00
+  Z"
+/>
+<path fill="#8595a1" d="
+  M 128.00 85.29
+  L 128.25 127.96
+  L 128.00 128.04
+  L 85.50 127.96
+  L 85.31 86.04
+  A 0.74 0.72 -0.0 0 1 86.05 85.32
+  L 128.00 85.29
+  Z"
+/>
+<path fill="#757161" d="
+  M 128.00 85.29
+  Q 136.00 85.40 144.00 85.40
+  Q 520.12 85.47 896.25 85.54
+  L 895.96 128.00
+  L 128.25 127.96
+  L 128.00 85.29
+  Z"
+/>
+<path fill="#8595a1" d="
+  M 938.46 127.75
+  Q 918.73 128.19 899.00 127.93
+  Q 897.50 127.91 896.04 128.25
+  L 895.96 128.00
+  L 896.25 85.54
+  Q 897.80 85.11 899.36 85.25
+  Q 902.07 85.51 902.17 85.51
+  Q 920.05 85.62 937.79 85.31
+  A 0.74 0.73 88.8 0 1 938.53 86.03
+  Q 939.10 107.41 938.46 127.75
+  Z"
+/>
+<path fill="#14061a" fill-opacity="0.973" d="
+  M 0.00 87.69
+  Q 0.25 88.17 0.25 89.50
+  Q 0.25 507.50 0.25 925.50
+  Q 0.25 932.92 0.47 936.80
+  Q 0.48 936.89 0.41 937.70
+  Q 0.33 938.52 1.25 938.54
+  Q 0.57 939.06 0.00 938.44
+  L 0.00 87.69
+  Z"
+/>
+<path fill="#8595a1" d="
+  M 42.54 127.75
+  Q 44.37 128.06 47.75 128.00
+  Q 63.03 127.73 85.21 128.25
+  Q 85.65 137.34 85.50 146.42
+  Q 85.33 156.67 85.41 162.59
+  Q 85.50 169.49 85.50 178.75
+  Q 85.50 498.38 85.50 818.00
+  Q 85.50 838.75 85.27 849.17
+  Q 85.26 849.73 85.44 850.81
+  Q 85.58 851.64 85.50 852.50
+  Q 85.41 853.56 86.50 853.29
+  Q 85.11 853.55 85.31 854.66
+  Q 85.51 855.75 85.51 855.88
+  Q 85.71 875.82 85.21 895.75
+  L 42.79 896.00
+  Q 42.30 718.50 42.33 541.00
+  Q 42.36 337.03 42.69 133.06
+  Q 42.69 130.40 42.54 127.75
+  Z"
+/>
+<path fill="#757161" d="
+  M 938.46 127.75
+  Q 938.58 128.07 939.00 128.04
+  Q 938.50 128.35 938.50 129.50
+  Q 938.50 490.37 938.50 851.24
+  Q 938.50 851.47 938.70 852.20
+  Q 938.91 852.94 938.00 853.29
+  Q 917.02 853.83 896.04 853.25
+  L 896.04 128.25
+  Q 897.50 127.91 899.00 127.93
+  Q 918.73 128.19 938.46 127.75
+  Z"
+/>
+<path fill="#757161" d="
+  M 85.50 127.96
+  L 128.00 128.04
+  L 128.04 810.50
+  L 128.00 853.25
+  Q 107.25 853.83 86.50 853.29
+  Q 85.41 853.56 85.50 852.50
+  Q 85.58 851.64 85.44 850.81
+  Q 85.26 849.73 85.27 849.17
+  Q 85.50 838.75 85.50 818.00
+  Q 85.50 498.38 85.50 178.75
+  Q 85.50 169.49 85.41 162.59
+  Q 85.33 156.67 85.50 146.42
+  Q 85.65 137.34 85.21 128.25
+  Q 85.27 128.02 85.50 127.96
+  Z"
+/>
+<path fill="#140c1c" d="
+  M 128.00 128.04
+  L 128.25 127.96
+  L 895.96 128.00
+  L 896.04 128.25
+  L 896.04 853.25
+  L 896.00 896.00
+  L 128.56 895.94
+  A 0.50 0.50 45.0 0 1 128.06 895.44
+  L 128.00 853.25
+  Q 149.63 853.90 171.25 853.21
+  Q 186.86 853.61 208.25 853.50
+  Q 281.56 853.11 384.00 853.21
+  Q 403.41 853.60 422.82 853.27
+  Q 422.91 853.26 424.63 853.55
+  Q 425.65 853.73 426.54 853.00
+  Q 427.05 853.61 427.66 853.48
+  Q 428.40 853.31 428.50 853.31
+  Q 448.42 853.25 468.34 853.43
+  Q 468.75 853.44 468.99 853.26
+  Q 469.27 853.06 469.46 852.75
+  Q 470.15 853.51 471.75 853.50
+  Q 491.90 853.37 512.04 853.25
+  L 554.06 853.32
+  A 0.64 0.10 -33.0 0 0 554.49 853.13
+  L 554.71 853.00
+  L 554.74 853.22
+  A 0.31 0.26 -5.4 0 0 555.05 853.43
+  Q 574.68 853.07 594.31 853.30
+  Q 594.43 853.31 595.52 853.51
+  Q 596.37 853.67 597.04 853.00
+  Q 597.38 853.16 597.72 853.30
+  Q 598.05 853.44 598.43 853.44
+  Q 619.24 853.34 640.04 853.25
+  L 811.00 853.21
+  L 852.31 853.31
+  A 1.18 1.15 -0.2 0 0 853.49 852.15
+  L 853.21 810.50
+  Q 853.93 789.25 853.21 768.00
+  Q 853.28 756.57 853.26 745.14
+  Q 853.26 745.06 853.50 736.37
+  Q 853.65 730.91 853.00 725.46
+  L 853.19 725.18
+  A 0.97 0.31 -49.6 0 0 853.43 724.60
+  Q 853.11 711.92 853.48 699.25
+  Q 853.72 690.87 853.21 682.50
+  Q 853.28 672.75 853.26 663.00
+  Q 853.26 662.93 853.52 651.50
+  Q 853.65 645.75 853.21 640.00
+  Q 853.67 619.50 853.50 599.00
+  Q 853.49 597.63 853.00 597.29
+  L 853.22 597.26
+  A 0.30 0.26 84.4 0 0 853.43 596.96
+  Q 852.96 569.52 853.25 559.75
+  Q 853.37 555.53 853.21 554.75
+  L 853.21 512.00
+  Q 853.18 493.75 853.50 475.50
+  Q 853.53 473.80 853.00 469.46
+  Q 853.65 468.80 853.52 468.02
+  Q 853.32 466.90 853.32 466.83
+  Q 853.52 447.24 853.50 427.66
+  Q 853.50 427.59 853.31 426.89
+  L 853.21 426.50
+  Q 853.28 416.75 853.26 407.00
+  Q 853.26 406.93 853.52 395.50
+  Q 853.65 389.75 853.21 384.00
+  Q 853.67 363.50 853.50 343.00
+  Q 853.49 341.63 853.00 341.29
+  L 853.22 341.26
+  A 0.30 0.26 84.4 0 0 853.43 340.96
+  Q 852.96 313.52 853.25 303.75
+  Q 853.37 299.53 853.21 298.75
+  L 853.21 256.00
+  L 853.21 213.25
+  L 853.49 172.31
+  A 1.60 1.59 -89.8 0 0 851.90 170.70
+  L 810.75 170.79
+  L 640.25 170.79
+  Q 619.79 170.15 599.32 170.68
+  Q 599.09 170.68 598.37 170.46
+  Q 597.76 170.27 597.46 171.00
+  Q 597.01 170.50 596.00 170.50
+  Q 576.00 170.50 556.00 170.50
+  Q 554.84 170.50 554.71 171.25
+  Q 554.28 170.56 552.50 170.50
+  Q 549.08 170.39 545.67 170.53
+  Q 541.51 170.72 538.83 170.64
+  Q 525.40 170.28 511.96 170.75
+  Q 490.60 170.09 469.25 170.79
+  Q 447.90 170.10 426.54 170.75
+  Q 406.62 170.39 386.69 170.69
+  Q 384.83 170.71 384.29 171.00
+  Q 383.82 170.75 382.50 170.75
+  Q 298.00 170.72 213.50 170.79
+  Q 192.66 170.14 171.19 170.70
+  A 0.53 0.53 -1.1 0 0 170.68 171.23
+  Q 170.79 189.01 170.75 206.04
+  Q 170.75 206.15 170.55 209.45
+  Q 170.43 211.35 170.79 213.25
+  Q 170.72 233.30 170.75 253.34
+  Q 170.75 253.40 170.53 254.62
+  Q 170.39 255.39 171.00 255.96
+  L 170.78 255.99
+  A 0.30 0.26 84.4 0 0 170.57 256.29
+  Q 170.98 281.78 170.56 297.31
+  Q 170.54 298.22 170.79 298.50
+  Q 170.71 318.67 170.75 338.84
+  Q 170.75 338.90 170.53 340.12
+  Q 170.39 340.89 171.00 341.46
+  Q 170.36 341.67 170.48 342.08
+  Q 170.75 343.00 170.75 343.00
+  Q 170.80 369.05 170.50 382.00
+  Q 170.47 383.39 170.79 384.00
+  L 170.75 424.50
+  Q 170.75 424.80 170.52 425.44
+  Q 170.25 426.18 171.00 426.71
+  Q 170.38 427.19 170.54 427.93
+  Q 170.75 428.93 170.74 429.10
+  Q 170.56 448.58 170.56 468.06
+  Q 170.56 469.00 170.79 469.25
+  Q 170.72 489.30 170.75 509.34
+  Q 170.75 509.40 170.53 510.62
+  Q 170.39 511.39 171.00 511.96
+  L 170.78 511.99
+  A 0.30 0.26 84.4 0 0 170.57 512.29
+  Q 170.98 537.78 170.56 553.31
+  Q 170.54 554.22 170.79 554.50
+  Q 170.71 574.67 170.75 594.84
+  Q 170.75 594.90 170.53 596.12
+  Q 170.39 596.89 171.00 597.46
+  Q 170.36 597.67 170.48 598.08
+  Q 170.75 599.00 170.75 599.00
+  Q 170.80 625.05 170.50 638.00
+  Q 170.47 639.39 170.79 640.00
+  L 170.75 680.50
+  Q 170.75 680.80 170.52 681.44
+  Q 170.25 682.18 171.00 682.71
+  Q 170.38 683.19 170.54 683.93
+  Q 170.75 684.93 170.74 685.10
+  Q 170.56 704.58 170.56 724.06
+  Q 170.56 725.00 170.79 725.25
+  L 170.75 767.96
+  L 170.71 810.25
+  L 128.04 810.50
+  L 128.00 128.04
+  Z"
+/>
+<path fill="#8595a1" d="
+  M 939.00 128.04
+  L 981.21 128.00
+  Q 981.48 130.32 981.40 132.64
+  Q 981.25 136.82 981.25 136.87
+  Q 981.22 512.68 981.29 888.50
+  L 981.25 895.50
+  A 0.50 0.50 -45.0 0 1 980.75 896.00
+  L 938.50 896.00
+  Q 938.50 875.00 938.48 854.00
+  Q 938.48 853.50 938.00 853.29
+  Q 938.91 852.94 938.70 852.20
+  Q 938.50 851.47 938.50 851.24
+  Q 938.50 490.37 938.50 129.50
+  Q 938.50 128.35 939.00 128.04
+  Z"
+/>
+<path fill="#7b2e31" d="
+  M 213.50 170.79
+  L 213.21 213.25
+  L 170.79 213.25
+  Q 170.43 211.35 170.55 209.45
+  Q 170.75 206.15 170.75 206.04
+  Q 170.79 189.01 170.68 171.23
+  A 0.53 0.53 -1.1 0 1 171.19 170.70
+  Q 192.66 170.14 213.50 170.79
+  Z"
+/>
+<path fill="#a40000" d="
+  M 384.29 171.00
+  Q 383.99 180.65 384.19 197.06
+  Q 384.22 200.09 384.00 213.21
+  Q 382.14 213.55 380.25 213.55
+  Q 339.75 213.53 299.25 213.46
+  L 256.04 213.50
+  L 215.92 213.25
+  Q 214.00 213.24 214.00 215.14
+  Q 214.00 234.13 213.88 252.75
+  Q 213.85 256.77 213.86 252.50
+  Q 213.91 233.37 213.54 214.25
+  Q 213.57 213.67 213.21 213.25
+  L 213.50 170.79
+  Q 298.00 170.72 382.50 170.75
+  Q 383.82 170.75 384.29 171.00
+  Z"
+/>
+<path fill="#630100" fill-opacity="0.600" d="
+  M 426.54 170.75
+  L 426.46 213.00
+  Q 424.74 213.39 419.75 213.25
+  Q 410.78 213.00 384.29 213.50
+  Q 384.23 213.27 384.00 213.21
+  Q 384.22 200.09 384.19 197.06
+  Q 383.99 180.65 384.29 171.00
+  Q 384.83 170.71 386.69 170.69
+  Q 406.62 170.39 426.54 170.75
+  Z"
+/>
+<path fill="#4e4a4e" d="
+  M 469.25 170.79
+  L 469.25 212.51
+  A 0.99 0.98 89.7 0 0 470.24 213.50
+  L 511.41 213.24
+  A 0.61 0.60 89.5 0 0 512.00 212.63
+  L 511.96 170.75
+  Q 525.40 170.28 538.83 170.64
+  Q 541.51 170.72 545.67 170.53
+  Q 549.08 170.39 552.50 170.50
+  Q 554.28 170.56 554.71 171.25
+  L 554.50 213.21
+  Q 554.28 213.25 554.25 213.46
+  L 512.71 213.43
+  A 0.65 0.64 0.0 0 0 512.06 214.07
+  L 512.06 255.11
+  A 0.93 0.91 0.3 0 0 512.98 256.02
+  L 554.54 256.25
+  L 554.71 298.25
+  Q 554.50 298.29 554.46 298.50
+  L 512.00 298.46
+  L 512.00 256.90
+  A 0.90 0.90 45.0 0 0 511.10 256.00
+  L 469.54 256.00
+  L 469.46 255.50
+  L 469.19 214.05
+  A 0.51 0.50 0.6 0 0 468.69 213.55
+  Q 447.85 212.87 427.00 213.46
+  L 426.46 213.00
+  L 426.54 170.75
+  Q 447.90 170.10 469.25 170.79
+  Z"
+/>
+<path fill="#862527" d="
+  M 640.25 170.79
+  L 639.96 212.75
+  L 639.74 213.02
+  A 0.83 0.56 11.3 0 1 639.16 213.26
+  Q 619.22 213.72 599.27 213.44
+  Q 599.18 213.44 598.39 213.28
+  Q 597.75 213.15 597.29 213.75
+  L 597.21 213.25
+  L 597.46 171.00
+  Q 597.76 170.27 598.37 170.46
+  Q 599.09 170.68 599.32 170.68
+  Q 619.79 170.15 640.25 170.79
+  Z"
+/>
+<path fill="#500104" fill-opacity="0.475" d="
+  M 853.21 213.25
+  L 810.79 213.25
+  L 810.71 212.75
+  L 810.75 170.79
+  L 851.90 170.70
+  A 1.60 1.59 -89.8 0 1 853.49 172.31
+  L 853.21 213.25
+  Z"
+/>
+<path fill="#a40000" d="
+  M 640.25 170.79
+  L 810.75 170.79
+  L 810.71 212.75
+  Q 809.91 213.72 808.71 213.58
+  Q 807.47 213.44 807.42 213.44
+  Q 788.12 213.50 768.81 213.56
+  A 0.63 0.48 -83.0 0 0 768.31 214.07
+  L 768.04 215.50
+  Q 768.64 213.18 766.50 213.25
+  Q 753.48 213.68 725.50 213.54
+  L 640.04 213.50
+  L 639.96 212.75
+  L 640.25 170.79
+  Z"
+/>
+<path fill="#b00000" d="
+  M 639.96 212.75
+  L 640.04 213.50
+  L 639.71 256.25
+  Q 618.88 255.68 598.06 256.18
+  A 0.51 0.48 88.2 0 1 597.57 255.69
+  L 597.29 248.50
+  L 597.29 213.75
+  Q 597.75 213.15 598.39 213.28
+  Q 599.18 213.44 599.27 213.44
+  Q 619.22 213.72 639.16 213.26
+  A 0.83 0.56 11.3 0 0 639.74 213.02
+  L 639.96 212.75
+  Z"
+/>
+<path fill="#780000" fill-opacity="0.733" d="
+  M 810.71 212.75
+  L 810.79 213.25
+  Q 810.86 242.25 810.56 255.06
+  Q 810.54 255.79 811.00 255.96
+  L 810.75 256.04
+  L 768.04 256.00
+  L 767.96 255.50
+  L 768.04 215.50
+  L 768.31 214.07
+  A 0.63 0.48 -83.0 0 1 768.81 213.56
+  Q 788.12 213.50 807.42 213.44
+  Q 807.47 213.44 808.71 213.58
+  Q 809.91 213.72 810.71 212.75
+  Z"
+/>
+<path fill="#b60000" d="
+  M 426.46 213.00
+  L 427.00 213.46
+  Q 426.23 213.90 426.75 214.75
+  Q 426.94 234.90 426.50 255.04
+  Q 425.93 256.26 424.58 256.12
+  Q 423.51 256.00 423.42 256.00
+  Q 403.83 255.97 384.25 256.04
+  Q 383.59 234.77 384.29 213.50
+  Q 410.78 213.00 419.75 213.25
+  Q 424.74 213.39 426.46 213.00
+  Z"
+/>
+<path fill="#951315" d="
+  M 256.04 213.50
+  L 256.21 255.25
+  Q 255.87 255.68 255.96 256.25
+  Q 234.62 255.62 213.29 256.25
+  L 213.21 256.00
+  L 213.30 255.83
+  Q 213.44 255.58 213.43 255.48
+  Q 212.90 234.87 213.54 214.25
+  Q 213.91 233.37 213.86 252.50
+  Q 213.85 256.77 213.88 252.75
+  Q 214.00 234.13 214.00 215.14
+  Q 214.00 213.24 215.92 213.25
+  L 256.04 213.50
+  Z"
+/>
+<path fill="#dc0000" d="
+  M 299.25 213.46
+  Q 298.18 215.00 298.38 216.77
+  Q 298.67 219.29 298.67 219.40
+  Q 298.42 237.58 298.46 255.75
+  Q 278.35 256.18 258.23 256.00
+  Q 258.12 256.00 257.27 256.10
+  Q 256.27 256.22 256.21 255.25
+  L 256.04 213.50
+  L 299.25 213.46
+  Z"
+/>
+<path fill="#ff0000" d="
+  M 384.00 213.21
+  Q 384.23 213.27 384.29 213.50
+  Q 383.59 234.77 384.25 256.04
+  L 384.02 297.47
+  A 1.24 1.19 0.2 0 0 385.26 298.67
+  L 425.80 298.68
+  A 0.64 0.55 -1.9 0 1 426.43 299.19
+  L 426.54 301.00
+  Q 426.81 317.62 426.50 334.25
+  Q 426.46 336.57 426.79 341.75
+  L 426.57 382.78
+  A 1.20 1.16 89.8 0 0 427.74 383.98
+  L 469.00 383.71
+  L 469.50 384.04
+  L 469.49 425.57
+  A 0.96 0.93 -0.0 0 0 470.45 426.50
+  L 554.21 426.68
+  A 0.47 0.47 -39.9 0 0 554.69 426.20
+  Q 554.36 408.64 554.72 391.10
+  Q 554.72 391.00 554.62 388.42
+  Q 554.54 386.44 555.15 384.54
+  A 0.69 0.68 8.6 0 1 555.81 384.06
+  L 596.53 384.00
+  A 0.72 0.72 0.0 0 0 597.25 383.28
+  L 597.21 341.75
+  Q 597.90 320.19 597.31 301.94
+  Q 597.25 300.09 597.54 299.00
+  Q 601.27 298.32 605.03 298.44
+  Q 611.93 298.65 612.49 298.64
+  Q 625.87 298.30 639.23 298.75
+  A 0.50 0.50 0.0 0 0 639.75 298.27
+  Q 640.41 277.25 639.71 256.25
+  L 640.04 213.50
+  L 725.50 213.54
+  Q 725.48 230.31 725.50 247.07
+  Q 725.50 247.16 725.26 251.42
+  Q 725.13 253.71 725.54 256.00
+  L 725.25 298.54
+  L 683.86 298.58
+  A 1.31 1.30 -0.0 0 0 682.55 299.88
+  L 682.50 340.71
+  Q 682.03 341.25 681.00 341.25
+  Q 661.00 341.25 641.51 341.25
+  A 1.50 1.47 -0.2 0 0 640.01 342.73
+  L 640.29 384.00
+  L 640.01 425.49
+  A 1.03 0.99 90.0 0 1 639.02 426.52
+  L 598.04 426.56
+  A 0.78 0.76 -1.1 0 0 597.26 427.35
+  Q 597.82 443.25 597.22 459.50
+  Q 597.03 464.39 597.54 469.25
+  L 597.54 512.00
+  L 597.32 553.75
+  A 0.71 0.71 0.8 0 0 598.01 554.46
+  Q 619.88 554.97 640.00 554.46
+  Q 640.34 554.63 640.29 555.00
+  Q 639.56 576.38 640.29 597.75
+  Q 639.64 618.65 640.18 639.18
+  A 0.84 0.83 89.3 0 0 641.01 640.00
+  L 682.50 639.96
+  L 682.75 640.04
+  L 682.79 682.75
+  L 682.56 724.45
+  A 1.05 1.03 89.2 0 0 683.62 725.50
+  Q 704.35 724.90 725.21 725.50
+  L 725.44 767.32
+  A 0.51 0.50 90.0 0 0 725.93 767.82
+  Q 746.95 768.32 767.96 767.75
+  Q 768.02 767.98 768.25 768.04
+  L 767.79 810.50
+  L 764.00 810.54
+  L 683.21 810.50
+  A 0.46 0.46 -45.0 0 1 682.75 810.04
+  L 682.69 769.13
+  A 1.14 1.13 0.0 0 0 681.55 768.00
+  L 640.00 768.04
+  Q 639.77 767.98 639.71 767.75
+  Q 640.44 746.78 639.70 725.81
+  A 0.50 0.50 -2.0 0 0 639.19 725.32
+  Q 621.96 725.46 610.25 725.25
+  Q 603.45 725.13 598.06 725.53
+  A 0.53 0.53 -1.7 0 0 597.56 726.06
+  L 597.46 766.25
+  L 597.21 725.25
+  Q 597.90 703.62 597.21 682.00
+  Q 597.54 675.71 597.50 674.50
+  Q 596.94 657.53 597.43 640.94
+  A 0.92 0.91 -89.4 0 0 596.52 640.00
+  L 557.00 640.04
+  Q 555.30 640.31 555.00 639.00
+  Q 554.34 636.16 554.45 632.62
+  Q 554.63 627.00 554.61 626.25
+  Q 554.29 612.08 554.67 598.37
+  A 1.09 1.08 -89.2 0 0 553.59 597.25
+  L 512.00 597.29
+  L 470.30 597.31
+  A 1.05 1.05 89.2 0 0 469.25 598.39
+  Q 469.80 618.78 469.32 639.31
+  A 0.52 0.50 -89.4 0 1 468.82 639.82
+  L 427.52 639.99
+  A 1.06 1.06 -0.3 0 0 426.47 641.05
+  L 426.54 682.00
+  Q 425.61 682.50 425.00 682.50
+  Q 405.25 682.50 385.16 682.50
+  A 1.15 1.13 0.0 0 0 384.01 683.63
+  L 384.29 725.25
+  L 384.04 767.00
+  L 383.82 767.64
+  A 0.85 0.60 6.1 0 1 383.06 768.06
+  L 342.49 768.00
+  A 1.25 1.25 88.9 0 0 341.24 769.30
+  Q 342.01 789.99 341.00 810.46
+  Q 318.11 810.74 259.50 810.75
+  Q 256.98 810.75 256.00 810.46
+  L 256.04 768.25
+  L 298.06 767.82
+  A 0.52 0.50 -0.6 0 0 298.57 767.32
+  L 298.46 725.75
+  Q 298.63 723.33 298.50 717.00
+  Q 298.23 703.97 298.75 683.04
+  Q 300.32 682.48 302.00 682.49
+  Q 321.34 682.60 340.69 682.68
+  A 0.49 0.49 0.6 0 0 341.19 682.19
+  Q 341.35 651.53 341.25 642.00
+  Q 341.24 640.76 341.54 640.25
+  L 383.19 640.01
+  A 0.81 0.80 -0.0 0 0 384.00 639.21
+  L 383.96 597.25
+  L 384.04 555.00
+  Q 385.24 554.52 388.00 554.50
+  Q 407.00 554.36 425.30 554.74
+  A 1.18 1.18 0.5 0 0 426.50 553.56
+  L 426.46 512.00
+  Q 426.91 510.19 426.76 508.37
+  Q 426.49 505.18 426.49 505.10
+  Q 426.36 485.48 426.75 472.00
+  Q 426.80 470.25 426.46 469.25
+  Q 426.85 467.71 426.72 466.17
+  Q 426.50 463.38 426.50 463.30
+  Q 426.50 445.51 426.50 427.42
+  A 0.69 0.68 0.4 0 0 425.82 426.74
+  L 383.79 426.50
+  L 383.96 384.25
+  L 384.00 342.36
+  A 1.06 1.05 0.3 0 0 382.95 341.31
+  Q 365.34 341.20 347.75 341.25
+  Q 345.18 341.26 343.48 341.63
+  A 1.91 1.04 34.0 0 1 342.54 341.54
+  Q 341.57 341.22 341.29 342.25
+  L 341.21 341.25
+  L 341.25 299.25
+  A 0.50 0.50 -45.0 0 0 340.75 298.75
+  L 299.56 298.75
+  A 0.56 0.56 0.0 0 0 299.00 299.31
+  L 298.96 340.75
+  L 298.79 340.75
+  L 298.50 298.54
+  L 298.46 255.75
+  Q 298.42 237.58 298.67 219.40
+  Q 298.67 219.29 298.38 216.77
+  Q 298.18 215.00 299.25 213.46
+  Q 339.75 213.53 380.25 213.55
+  Q 382.14 213.55 384.00 213.21
+  Z"
+/>
+<path fill="#230004" fill-opacity="0.184" d="
+  M 469.46 255.50
+  Q 469.01 256.00 468.00 256.00
+  Q 447.40 256.00 426.79 256.00
+  Q 426.41 255.58 426.50 255.04
+  Q 426.94 234.90 426.75 214.75
+  Q 426.23 213.90 427.00 213.46
+  Q 447.85 212.87 468.69 213.55
+  A 0.51 0.50 0.6 0 1 469.19 214.05
+  L 469.46 255.50
+  Z"
+/>
+<path fill="#5c4346" d="
+  M 554.50 213.21
+  Q 575.85 213.91 597.21 213.25
+  L 597.29 213.75
+  L 597.29 248.50
+  L 597.21 256.00
+  L 554.79 256.00
+  Q 554.35 229.25 554.69 218.69
+  Q 554.81 215.00 554.25 213.46
+  Q 554.28 213.25 554.50 213.21
+  Z"
+/>
+<path fill="#dc0000" d="
+  M 768.04 215.50
+  L 767.96 255.50
+  Q 767.51 256.00 766.50 256.00
+  Q 746.02 256.00 725.54 256.00
+  Q 725.13 253.71 725.26 251.42
+  Q 725.50 247.16 725.50 247.07
+  Q 725.48 230.31 725.50 213.54
+  Q 753.48 213.68 766.50 213.25
+  Q 768.64 213.18 768.04 215.50
+  Z"
+/>
+<path fill="#4e4a4e" d="
+  M 810.79 213.25
+  L 853.21 213.25
+  L 853.21 256.00
+  L 811.00 255.96
+  Q 810.54 255.79 810.56 255.06
+  Q 810.86 242.25 810.79 213.25
+  Z"
+/>
+<path fill="#d60000" d="
+  M 597.29 248.50
+  L 597.57 255.69
+  A 0.51 0.48 88.2 0 0 598.06 256.18
+  Q 618.88 255.68 639.71 256.25
+  Q 640.41 277.25 639.75 298.27
+  A 0.50 0.50 -31.4 0 1 639.23 298.75
+  Q 625.87 298.30 612.49 298.64
+  Q 611.93 298.65 605.03 298.44
+  Q 601.27 298.32 597.54 299.00
+  Q 597.50 298.57 597.21 298.25
+  L 597.21 256.00
+  L 597.29 248.50
+  Z"
+/>
+<path fill="#dc0000" d="
+  M 426.50 255.04
+  Q 426.41 255.58 426.79 256.00
+  Q 426.48 259.13 426.57 262.28
+  Q 426.75 268.14 426.75 268.22
+  Q 426.73 283.61 426.79 299.00
+  Q 426.88 300.05 426.54 301.00
+  L 426.43 299.19
+  A 0.64 0.55 -1.9 0 0 425.80 298.68
+  L 385.26 298.67
+  A 1.24 1.19 0.2 0 1 384.02 297.47
+  L 384.25 256.04
+  Q 403.83 255.97 423.42 256.00
+  Q 423.51 256.00 424.58 256.12
+  Q 425.93 256.26 426.50 255.04
+  Z"
+/>
+<path fill="#b60000" d="
+  M 256.21 255.25
+  Q 256.27 256.22 257.27 256.10
+  Q 258.12 256.00 258.23 256.00
+  Q 278.35 256.18 298.46 255.75
+  L 298.50 298.54
+  L 256.57 298.68
+  A 0.43 0.31 72.7 0 1 256.25 298.44
+  Q 256.18 298.30 256.04 298.25
+  L 255.96 256.25
+  Q 255.87 255.68 256.21 255.25
+  Z"
+/>
+<path fill="#901a1b" d="
+  M 469.46 255.50
+  L 469.54 256.00
+  Q 469.58 286.25 469.31 296.81
+  Q 469.28 298.11 469.54 298.50
+  Q 469.57 298.92 469.25 299.04
+  Q 448.02 298.34 426.79 299.00
+  Q 426.73 283.61 426.75 268.22
+  Q 426.75 268.14 426.57 262.28
+  Q 426.48 259.13 426.79 256.00
+  Q 447.40 256.00 468.00 256.00
+  Q 469.01 256.00 469.46 255.50
+  Z"
+/>
+<path fill="#b60000" d="
+  M 767.96 255.50
+  L 768.04 256.00
+  L 768.25 298.50
+  Q 767.93 298.44 767.79 298.61
+  A 0.73 0.27 -55.4 0 1 767.33 298.93
+  L 726.06 298.75
+  A 0.57 0.56 90.0 0 0 725.50 299.32
+  L 725.46 308.75
+  L 725.25 298.54
+  L 725.54 256.00
+  Q 746.02 256.00 766.50 256.00
+  Q 767.51 256.00 767.96 255.50
+  Z"
+/>
+<path fill="#633f42" d="
+  M 810.75 256.04
+  L 810.50 298.50
+  L 768.25 298.50
+  L 768.04 256.00
+  L 810.75 256.04
+  Z"
+/>
+<path fill="#4e4a4e" d="
+  M 171.00 255.96
+  L 213.21 256.00
+  L 213.29 256.25
+  L 213.25 297.99
+  A 0.51 0.49 -90.0 0 0 213.74 298.50
+  L 255.96 298.75
+  L 256.25 341.21
+  L 255.75 341.29
+  L 213.99 341.50
+  A 0.68 0.66 0.0 0 0 213.31 342.16
+  L 213.43 383.32
+  A 0.51 0.50 0.0 0 0 213.94 383.82
+  L 256.00 384.00
+  L 256.00 426.17
+  A 0.52 0.52 0.0 0 0 256.52 426.69
+  L 297.91 426.76
+  A 0.59 0.59 89.9 0 1 298.50 427.35
+  L 298.50 468.49
+  A 0.95 0.94 -90.0 0 0 299.44 469.44
+  L 341.21 469.50
+  L 341.29 470.00
+  Q 341.28 489.13 341.25 508.25
+  Q 341.25 511.20 341.00 512.04
+  L 299.86 511.94
+  A 1.32 1.31 -90.0 0 1 298.55 510.62
+  L 298.54 470.55
+  A 1.07 1.05 0.0 0 0 297.47 469.50
+  L 256.69 469.43
+  A 0.69 0.69 45.0 0 0 256.00 470.12
+  L 256.00 511.20
+  A 0.81 0.80 0.0 0 0 256.81 512.00
+  L 297.85 512.06
+  A 0.85 0.84 -89.7 0 1 298.69 512.92
+  L 298.50 554.46
+  L 298.25 554.54
+  L 256.68 554.68
+  A 0.50 0.50 45.0 0 0 256.18 555.18
+  L 256.01 596.31
+  A 0.94 0.94 -89.3 0 0 256.94 597.26
+  L 298.21 597.50
+  Q 298.74 599.81 298.69 603.69
+  Q 298.57 612.30 298.71 639.50
+  Q 298.41 640.00 297.25 640.00
+  Q 276.62 640.00 256.00 640.00
+  L 256.00 598.58
+  A 1.32 1.30 -0.2 0 0 254.67 597.28
+  L 214.57 597.32
+  A 1.31 1.26 -0.2 0 0 213.26 598.59
+  L 213.43 639.32
+  A 0.51 0.50 0.0 0 0 213.94 639.82
+  L 256.00 640.00
+  L 256.29 682.75
+  Q 256.25 682.96 256.04 683.00
+  Q 255.70 682.50 254.50 682.50
+  Q 234.50 682.50 214.49 682.50
+  A 1.24 1.24 0.0 0 0 213.25 683.74
+  Q 213.27 703.22 213.31 722.94
+  Q 213.32 724.76 213.75 725.46
+  L 213.29 726.50
+  Q 213.50 725.38 212.56 725.37
+  Q 191.68 725.21 170.79 725.25
+  Q 170.56 725.00 170.56 724.06
+  Q 170.56 704.58 170.74 685.10
+  Q 170.75 684.93 170.54 683.93
+  Q 170.38 683.19 171.00 682.71
+  L 212.99 682.70
+  A 0.45 0.44 0.0 0 0 213.44 682.26
+  Q 213.23 669.50 213.51 656.56
+  Q 213.68 648.56 213.22 640.56
+  A 0.53 0.53 88.3 0 0 212.69 640.06
+  L 170.79 640.00
+  Q 170.47 639.39 170.50 638.00
+  Q 170.80 625.05 170.75 599.00
+  Q 170.75 599.00 170.48 598.08
+  Q 170.36 597.67 171.00 597.46
+  L 212.22 597.50
+  A 1.10 1.10 -89.7 0 0 213.32 596.41
+  L 213.44 555.55
+  A 0.87 0.87 0.3 0 0 212.58 554.68
+  L 170.79 554.50
+  Q 170.54 554.22 170.56 553.31
+  Q 170.98 537.78 170.57 512.29
+  A 0.30 0.26 84.4 0 1 170.78 511.99
+  L 171.00 511.96
+  L 212.89 512.00
+  A 0.42 0.42 0.0 0 0 213.31 511.58
+  L 213.31 469.81
+  A 0.51 0.50 -0.6 0 0 212.79 469.31
+  Q 191.74 469.81 170.79 469.25
+  Q 170.56 469.00 170.56 468.06
+  Q 170.56 448.58 170.74 429.10
+  Q 170.75 428.93 170.54 427.93
+  Q 170.38 427.19 171.00 426.71
+  L 212.57 426.74
+  A 0.72 0.69 90.0 0 1 213.26 427.46
+  L 213.49 468.76
+  A 0.52 0.50 0.6 0 0 214.00 469.26
+  Q 234.72 469.75 255.45 469.20
+  A 0.51 0.50 89.4 0 0 255.94 468.69
+  L 256.00 427.73
+  A 1.23 1.22 89.8 0 0 254.77 426.50
+  L 215.14 426.77
+  A 1.64 1.61 -0.2 0 1 213.49 425.16
+  L 213.52 385.15
+  A 1.15 1.14 -90.0 0 0 212.38 384.00
+  L 170.79 384.00
+  Q 170.47 383.39 170.50 382.00
+  Q 170.80 369.05 170.75 343.00
+  Q 170.75 343.00 170.48 342.08
+  Q 170.36 341.67 171.00 341.46
+  L 212.22 341.50
+  A 1.10 1.09 90.0 0 0 213.31 340.40
+  L 213.31 299.56
+  A 0.86 0.85 -90.0 0 0 212.46 298.70
+  L 170.79 298.50
+  Q 170.54 298.22 170.56 297.31
+  Q 170.98 281.78 170.57 256.29
+  A 0.30 0.26 84.4 0 1 170.78 255.99
+  L 171.00 255.96
+  Z
+  M 256.0365 512.3672
+  A 0.33 0.33 0.0 0 0 255.7071 512.0367
+  L 213.7271 511.9634
+  A 0.33 0.33 0.0 0 0 213.3966 512.2928
+  L 213.3235 554.1528
+  A 0.33 0.33 0.0 0 0 213.6529 554.4833
+  L 255.6329 554.5566
+  A 0.33 0.33 0.0 0 0 255.9634 554.2272
+  L 256.0365 512.3672
+  Z"
+/>
+<path fill="#230004" fill-opacity="0.184" d="
+  M 255.96 256.25
+  L 256.04 298.25
+  L 255.96 298.75
+  L 213.74 298.50
+  A 0.51 0.49 90.0 0 1 213.25 297.99
+  L 213.29 256.25
+  Q 234.62 255.62 255.96 256.25
+  Z
+  M 252.6200 297.1677
+  A 0.21 0.21 0.0 0 0 252.4096 296.9581
+  L 215.8097 297.0219
+  A 0.21 0.21 0.0 0 0 215.6000 297.2323
+  L 215.6000 297.2323
+  A 0.21 0.21 0.0 0 0 215.8104 297.4419
+  L 252.4103 297.3781
+  A 0.21 0.21 0.0 0 0 252.6200 297.1677
+  L 252.6200 297.1677
+  Z"
+/>
+<path fill="#780000" fill-opacity="0.733" d="
+  M 554.79 256.00
+  L 597.21 256.00
+  L 597.21 298.25
+  Q 571.25 298.82 557.50 298.50
+  Q 555.58 298.45 554.79 299.00
+  L 554.71 298.25
+  L 554.54 256.25
+  Q 554.75 256.21 554.79 256.00
+  Z"
+/>
+<rect fill="#2e0004" fill-opacity="0.243" x="-18.51" y="-0.21" transform="translate(234.11,297.20) rotate(-0.1)" width="37.02" height="0.42" rx="0.21"/>
+<path fill="#590102" fill-opacity="0.533" d="
+  M 256.04 298.25
+  Q 256.18 298.30 256.25 298.44
+  A 0.43 0.31 72.7 0 0 256.57 298.68
+  L 298.50 298.54
+  L 298.79 340.75
+  L 298.21 341.50
+  L 256.25 341.21
+  L 255.96 298.75
+  L 256.04 298.25
+  Z"
+/>
+<path fill="#2e0004" fill-opacity="0.243" d="
+  M 554.71 298.25
+  L 554.79 299.00
+  L 554.50 341.50
+  Q 536.71 341.11 531.56 341.31
+  Q 521.90 341.69 512.25 341.21
+  Q 512.41 340.53 512.04 340.00
+  L 512.00 299.53
+  A 0.81 0.79 -0.4 0 1 512.80 298.74
+  L 554.46 298.50
+  Q 554.50 298.29 554.71 298.25
+  Z"
+/>
+<path fill="#bc0000" d="
+  M 597.21 298.25
+  Q 597.50 298.57 597.54 299.00
+  Q 597.25 300.09 597.31 301.94
+  Q 597.90 320.19 597.21 341.75
+  L 554.50 341.50
+  L 554.79 299.00
+  Q 555.58 298.45 557.50 298.50
+  Q 571.25 298.82 597.21 298.25
+  Z"
+/>
+<path fill="#693b3e" d="
+  M 469.54 298.50
+  L 512.00 298.46
+  L 554.46 298.50
+  L 512.80 298.74
+  A 0.81 0.79 -0.4 0 0 512.00 299.53
+  L 512.04 340.00
+  Q 512.15 340.64 511.85 340.99
+  Q 511.63 341.25 511.05 341.25
+  Q 490.30 341.36 469.54 341.25
+  L 469.21 340.75
+  L 469.25 299.04
+  Q 469.57 298.92 469.54 298.50
+  Z"
+/>
+<path fill="#d00000" d="
+  M 725.25 298.54
+  L 725.46 308.75
+  Q 725.57 332.55 725.50 340.75
+  Q 725.50 341.33 726.00 341.29
+  Q 725.85 341.59 725.50 341.54
+  L 682.79 341.25
+  Q 682.82 340.83 682.50 340.71
+  L 682.55 299.88
+  A 1.31 1.30 0.0 0 1 683.86 298.58
+  L 725.25 298.54
+  Z"
+/>
+<path fill="#802a2c" d="
+  M 768.25 298.50
+  L 768.00 340.96
+  Q 767.68 341.25 767.25 341.29
+  L 726.00 341.29
+  Q 725.50 341.33 725.50 340.75
+  Q 725.57 332.55 725.46 308.75
+  L 725.50 299.32
+  A 0.57 0.56 -90.0 0 1 726.06 298.75
+  L 767.33 298.93
+  A 0.73 0.27 -55.4 0 0 767.79 298.61
+  Q 767.93 298.44 768.25 298.50
+  Z"
+/>
+<path fill="#4e4a4e" d="
+  M 810.50 298.50
+  Q 815.45 298.72 822.94 298.56
+  Q 833.22 298.34 853.21 298.75
+  Q 853.37 299.53 853.25 303.75
+  Q 852.96 313.52 853.43 340.96
+  A 0.30 0.26 84.4 0 1 853.22 341.26
+  L 853.00 341.29
+  L 811.28 341.32
+  A 0.77 0.76 0.0 0 0 810.51 342.08
+  L 810.80 383.44
+  A 0.51 0.50 0.0 0 0 811.31 383.94
+  L 853.21 384.00
+  Q 853.65 389.75 853.52 395.50
+  Q 853.26 406.93 853.26 407.00
+  Q 853.28 416.75 853.21 426.50
+  L 811.34 426.70
+  A 0.58 0.56 -0.0 0 1 810.76 426.14
+  L 810.75 384.88
+  A 0.88 0.86 90.0 0 0 809.89 384.00
+  L 768.00 384.00
+  Q 768.00 363.17 768.00 342.35
+  Q 768.00 341.95 767.81 341.72
+  Q 767.58 341.46 767.25 341.29
+  Q 767.68 341.25 768.00 340.96
+  Q 768.15 341.08 768.32 341.16
+  Q 768.48 341.25 768.69 341.26
+  Q 784.72 341.85 800.75 341.25
+  Q 804.89 341.10 809.74 341.57
+  A 0.74 0.72 2.9 0 0 810.55 340.85
+  L 810.50 298.50
+  Z"
+/>
+<path fill="#d00000" d="
+  M 341.21 341.25
+  L 299.60 341.19
+  A 0.64 0.39 -9.4 0 1 299.11 340.99
+  L 298.96 340.75
+  L 299.00 299.31
+  A 0.56 0.56 -0.0 0 1 299.56 298.75
+  L 340.75 298.75
+  A 0.50 0.50 45.0 0 1 341.25 299.25
+  L 341.21 341.25
+  Z"
+/>
+<path fill="#bc0000" d="
+  M 469.25 299.04
+  L 469.21 340.75
+  L 467.93 341.27
+  Q 467.38 341.49 467.00 341.50
+  L 426.79 341.75
+  Q 426.46 336.57 426.50 334.25
+  Q 426.81 317.62 426.54 301.00
+  Q 426.88 300.05 426.79 299.00
+  Q 448.02 298.34 469.25 299.04
+  Z"
+/>
+<path fill="#780000" fill-opacity="0.733" d="
+  M 512.04 340.00
+  Q 512.41 340.53 512.25 341.21
+  Q 511.52 341.49 511.94 342.06
+  Q 511.88 362.89 512.00 383.71
+  L 469.50 384.04
+  L 469.00 383.71
+  Q 469.52 382.45 469.50 380.25
+  Q 469.42 372.77 469.54 341.25
+  Q 490.30 341.36 511.05 341.25
+  Q 511.63 341.25 511.85 340.99
+  Q 512.15 340.64 512.04 340.00
+  Z"
+/>
+<path fill="#990100" fill-opacity="0.937" d="
+  M 298.79 340.75
+  L 298.96 340.75
+  L 299.11 340.99
+  A 0.64 0.39 -9.4 0 0 299.60 341.19
+  L 341.21 341.25
+  L 341.29 342.25
+  L 341.21 384.00
+  L 298.75 383.71
+  Q 298.60 364.20 298.74 344.69
+  Q 298.75 343.05 298.21 341.50
+  L 298.79 340.75
+  Z"
+/>
+<path fill="#e20000" d="
+  M 469.21 340.75
+  L 469.54 341.25
+  Q 469.42 372.77 469.50 380.25
+  Q 469.52 382.45 469.00 383.71
+  L 427.74 383.98
+  A 1.20 1.16 89.8 0 1 426.57 382.78
+  L 426.79 341.75
+  L 467.00 341.50
+  Q 467.38 341.49 467.93 341.27
+  L 469.21 340.75
+  Z"
+/>
+<path fill="#ee0000" d="
+  M 682.50 340.71
+  Q 682.82 340.83 682.79 341.25
+  L 682.46 383.75
+  Q 682.16 383.70 682.03 383.87
+  A 0.69 0.31 -58.9 0 1 681.59 384.18
+  L 640.29 384.00
+  L 640.01 342.73
+  A 1.50 1.47 -0.2 0 1 641.51 341.25
+  Q 661.00 341.25 681.00 341.25
+  Q 682.03 341.25 682.50 340.71
+  Z"
+/>
+<path fill="#e60000" d="
+  M 597.21 341.75
+  L 597.25 383.28
+  A 0.72 0.72 -0.0 0 1 596.53 384.00
+  L 555.81 384.06
+  A 0.69 0.68 8.6 0 0 555.15 384.54
+  Q 554.54 386.44 554.62 388.42
+  Q 554.72 391.00 554.72 391.10
+  Q 554.36 408.64 554.69 426.20
+  A 0.47 0.47 -45.0 0 1 554.21 426.68
+  L 470.45 426.50
+  A 0.96 0.93 -0.0 0 1 469.49 425.57
+  L 469.50 384.04
+  L 512.00 383.71
+  L 553.97 383.99
+  A 0.52 0.52 0.0 0 0 554.49 383.47
+  L 554.50 341.50
+  L 597.21 341.75
+  Z"
+/>
+<path fill="#55464a" d="
+  M 255.75 341.29
+  L 256.25 341.21
+  L 298.21 341.50
+  Q 298.75 343.05 298.74 344.69
+  Q 298.60 364.20 298.75 383.71
+  Q 298.34 383.69 298.25 383.96
+  L 256.00 384.00
+  L 255.75 341.29
+  Z"
+/>
+<path fill="#ee0000" d="
+  M 383.96 384.25
+  Q 363.20 383.67 342.44 384.11
+  Q 341.33 384.14 341.29 385.25
+  L 341.21 384.00
+  L 341.29 342.25
+  Q 341.57 341.22 342.54 341.54
+  A 1.91 1.04 34.0 0 0 343.48 341.63
+  Q 345.18 341.26 347.75 341.25
+  Q 365.34 341.20 382.95 341.31
+  A 1.06 1.05 0.3 0 1 384.00 342.36
+  L 383.96 384.25
+  Z"
+/>
+<path fill="#901a1b" d="
+  M 512.25 341.21
+  Q 521.90 341.69 531.56 341.31
+  Q 536.71 341.11 554.50 341.50
+  L 554.49 383.47
+  A 0.52 0.52 -0.0 0 1 553.97 383.99
+  L 512.00 383.71
+  Q 511.88 362.89 511.94 342.06
+  Q 511.52 341.49 512.25 341.21
+  Z"
+/>
+<path fill="#9a0c0d" d="
+  M 682.79 341.25
+  L 725.50 341.54
+  Q 724.91 361.39 725.46 381.25
+  Q 725.56 382.71 724.87 383.78
+  A 0.98 0.88 15.5 0 1 724.06 384.18
+  Q 704.66 383.86 685.25 384.00
+  Q 683.20 384.01 682.54 384.75
+  L 682.46 383.75
+  L 682.79 341.25
+  Z"
+/>
+<path fill="#0b0102" fill-opacity="0.071" d="
+  M 726.00 341.29
+  L 767.25 341.29
+  Q 767.58 341.46 767.81 341.72
+  Q 768.00 341.95 768.00 342.35
+  Q 768.00 363.17 768.00 384.00
+  L 725.75 383.96
+  L 725.46 381.25
+  Q 724.91 361.39 725.50 341.54
+  Q 725.85 341.59 726.00 341.29
+  Z"
+/>
+<path fill="#440004" fill-opacity="0.400" d="
+  M 725.46 381.25
+  L 725.75 383.96
+  Q 725.31 384.14 725.31 384.94
+  Q 725.36 405.19 725.31 425.86
+  A 0.83 0.83 89.6 0 1 724.48 426.69
+  L 682.79 426.75
+  L 682.71 424.75
+  L 682.54 384.75
+  Q 683.20 384.01 685.25 384.00
+  Q 704.66 383.86 724.06 384.18
+  A 0.98 0.88 15.5 0 0 724.87 383.78
+  Q 725.56 382.71 725.46 381.25
+  Z"
+/>
+<path fill="#753336" d="
+  M 298.75 383.71
+  L 341.21 384.00
+  L 341.29 385.25
+  Q 341.87 405.88 341.21 426.50
+  L 299.00 426.50
+  A 0.25 0.25 45.0 0 1 298.75 426.25
+  L 298.68 384.29
+  A 0.31 0.26 -85.7 0 0 298.47 383.99
+  L 298.25 383.96
+  Q 298.34 383.69 298.75 383.71
+  Z"
+/>
+<path fill="#cf0000" d="
+  M 682.46 383.75
+  L 682.54 384.75
+  L 682.71 424.75
+  Q 682.79 427.11 680.77 426.90
+  Q 679.34 426.75 679.21 426.76
+  Q 660.00 426.88 640.81 426.57
+  A 0.51 0.50 -88.9 0 0 640.30 427.07
+  Q 640.01 441.56 640.20 456.06
+  Q 640.28 462.41 639.96 468.75
+  Q 639.51 469.25 638.50 469.25
+  Q 618.02 469.25 597.54 469.25
+  Q 597.03 464.39 597.22 459.50
+  Q 597.82 443.25 597.26 427.35
+  A 0.78 0.76 -1.1 0 1 598.04 426.56
+  L 639.02 426.52
+  A 1.03 0.99 -90.0 0 0 640.01 425.49
+  L 640.29 384.00
+  L 681.59 384.18
+  A 0.69 0.31 -58.9 0 0 682.03 383.87
+  Q 682.16 383.70 682.46 383.75
+  Z"
+/>
+<path fill="#c80000" d="
+  M 383.96 384.25
+  L 383.79 426.50
+  L 383.75 426.71
+  L 341.29 426.75
+  L 341.21 426.50
+  Q 341.87 405.88 341.29 385.25
+  Q 341.33 384.14 342.44 384.11
+  Q 363.20 383.67 383.96 384.25
+  Z"
+/>
+<path fill="#4e4a4e" d="
+  M 725.75 383.96
+  L 768.00 384.00
+  L 768.00 426.17
+  A 0.52 0.52 0.0 0 0 768.52 426.69
+  L 809.94 426.75
+  A 0.58 0.57 89.5 0 1 810.51 427.32
+  L 810.74 468.75
+  A 0.51 0.51 0.0 0 0 811.25 469.26
+  L 853.00 469.46
+  Q 853.53 473.80 853.50 475.50
+  Q 853.18 493.75 853.21 512.00
+  L 811.56 511.94
+  A 0.63 0.60 -5.6 0 1 810.95 511.46
+  Q 810.43 509.06 810.50 505.50
+  Q 810.83 487.72 810.57 470.44
+  A 1.24 1.21 -0.5 0 0 809.33 469.25
+  L 768.76 469.32
+  A 0.77 0.75 -0.4 0 0 768.00 470.07
+  L 768.00 511.23
+  A 0.71 0.70 90.0 0 0 768.70 511.94
+  L 809.85 512.06
+  A 0.85 0.84 -89.7 0 1 810.69 512.92
+  L 810.51 553.82
+  A 0.92 0.88 0.6 0 0 811.42 554.71
+  L 853.21 554.75
+  Q 853.37 555.53 853.25 559.75
+  Q 852.96 569.52 853.43 596.96
+  A 0.30 0.26 84.4 0 1 853.22 597.26
+  L 853.00 597.29
+  L 811.41 597.31
+  A 0.91 0.89 -0.6 0 0 810.51 598.21
+  L 810.80 639.44
+  A 0.51 0.50 0.0 0 0 811.31 639.94
+  L 853.21 640.00
+  Q 853.65 645.75 853.52 651.50
+  Q 853.26 662.93 853.26 663.00
+  Q 853.28 672.75 853.21 682.50
+  L 811.34 682.70
+  A 0.58 0.56 -0.0 0 1 810.76 682.14
+  L 810.75 640.73
+  A 0.73 0.72 90.0 0 0 810.03 640.00
+  L 768.00 640.00
+  L 767.83 598.80
+  A 1.58 1.57 -0.9 0 0 766.21 597.24
+  Q 744.59 597.77 725.75 597.29
+  L 725.50 597.21
+  L 725.50 555.95
+  A 1.39 1.36 89.8 0 0 724.13 554.56
+  L 683.75 554.71
+  Q 683.20 554.37 682.50 554.46
+  L 682.46 512.25
+  L 682.54 512.00
+  L 724.86 512.00
+  A 0.45 0.45 -90.0 0 0 725.31 511.55
+  L 725.31 469.82
+  A 0.53 0.51 0.0 0 0 724.78 469.31
+  L 682.79 469.25
+  L 682.71 468.75
+  L 682.79 426.75
+  L 724.48 426.69
+  A 0.83 0.83 89.9 0 0 725.31 425.86
+  Q 725.36 405.19 725.31 384.94
+  Q 725.31 384.14 725.75 383.96
+  Z
+  M 767.9275 427.1755
+  A 0.69 0.69 0.0 0 0 767.2351 426.4879
+  L 725.8753 426.6323
+  A 0.69 0.69 0.0 0 0 725.1877 427.3247
+  L 725.3325 468.8045
+  A 0.69 0.69 0.0 0 0 726.0249 469.4921
+  L 767.3847 469.3477
+  A 0.69 0.69 0.0 0 0 768.0723 468.6553
+  L 767.9275 427.1755
+  Z
+  M 767.9735 512.3327
+  A 0.37 0.37 0.0 0 0 767.6029 511.9634
+  L 725.6029 512.0367
+  A 0.37 0.37 0.0 0 0 725.2336 512.4073
+  L 725.3065 554.1873
+  A 0.37 0.37 0.0 0 0 725.6771 554.5566
+  L 767.6771 554.4833
+  A 0.37 0.37 0.0 0 0 768.0464 554.1127
+  L 767.9735 512.3327
+  Z
+  M 810.64 555.30
+  A 0.77 0.77 0.0 0 0 809.87 554.53
+  L 768.77 554.53
+  A 0.77 0.77 0.0 0 0 768.00 555.30
+  L 768.00 596.70
+  A 0.77 0.77 0.0 0 0 768.77 597.47
+  L 809.87 597.47
+  A 0.77 0.77 0.0 0 0 810.64 596.70
+  L 810.64 555.30
+  Z"
+/>
+<path fill="#780000" fill-opacity="0.733" d="
+  M 682.71 424.75
+  L 682.79 426.75
+  L 682.71 468.75
+  Q 681.32 469.24 676.94 469.31
+  Q 658.61 469.62 640.29 469.25
+  L 639.96 468.75
+  Q 640.28 462.41 640.20 456.06
+  Q 640.01 441.56 640.30 427.07
+  A 0.51 0.50 -88.9 0 1 640.81 426.57
+  Q 660.00 426.88 679.21 426.76
+  Q 679.34 426.75 680.77 426.90
+  Q 682.79 427.11 682.71 424.75
+  Z"
+/>
+<path fill="#dc0000" d="
+  M 383.79 426.50
+  L 425.82 426.74
+  A 0.69 0.68 0.4 0 1 426.50 427.42
+  Q 426.50 445.51 426.50 463.30
+  Q 426.50 463.38 426.72 466.17
+  Q 426.85 467.71 426.46 469.25
+  Q 406.75 469.25 387.04 469.25
+  Q 386.30 469.25 385.52 469.54
+  Q 384.80 469.80 384.04 470.00
+  L 383.96 469.50
+  L 383.75 426.71
+  L 383.79 426.50
+  Z"
+/>
+<path fill="#901a1b" d="
+  M 341.29 426.75
+  L 383.75 426.71
+  L 383.96 469.50
+  Q 375.87 469.28 343.31 469.44
+  Q 341.77 469.45 341.29 470.00
+  L 341.21 469.50
+  L 341.29 426.75
+  Z"
+/>
+<path fill="#b00000" d="
+  M 639.96 468.75
+  L 640.29 469.25
+  L 640.00 512.00
+  Q 639.60 511.29 639.24 511.55
+  A 1.30 0.32 -39.5 0 1 638.43 511.94
+  L 597.54 512.00
+  L 597.54 469.25
+  Q 618.02 469.25 638.50 469.25
+  Q 639.51 469.25 639.96 468.75
+  Z"
+/>
+<path fill="#5c4346" d="
+  M 682.71 468.75
+  L 682.79 469.25
+  L 682.54 512.00
+  L 682.46 512.25
+  L 640.00 512.00
+  L 640.29 469.25
+  Q 658.61 469.62 676.94 469.31
+  Q 681.32 469.24 682.71 468.75
+  Z"
+/>
+<path fill="#230004" fill-opacity="0.184" d="
+  M 383.96 469.50
+  L 384.04 470.00
+  L 384.04 511.75
+  L 383.96 512.00
+  Q 363.91 512.00 343.87 512.00
+  Q 343.78 512.00 342.65 511.89
+  Q 341.09 511.73 341.46 513.50
+  L 341.00 512.04
+  Q 341.25 511.20 341.25 508.25
+  Q 341.28 489.13 341.29 470.00
+  Q 341.77 469.45 343.31 469.44
+  Q 375.87 469.28 383.96 469.50
+  Z"
+/>
+<path fill="#b60000" d="
+  M 426.46 469.25
+  Q 426.80 470.25 426.75 472.00
+  Q 426.36 485.48 426.49 505.10
+  Q 426.49 505.18 426.76 508.37
+  Q 426.91 510.19 426.46 512.00
+  L 384.04 511.75
+  L 384.04 470.00
+  Q 384.80 469.80 385.52 469.54
+  Q 386.30 469.25 387.04 469.25
+  Q 406.75 469.25 426.46 469.25
+  Z"
+/>
+<path fill="#d60000" d="
+  M 426.46 512.00
+  L 426.50 553.56
+  A 1.18 1.18 0.5 0 1 425.30 554.74
+  Q 407.00 554.36 388.00 554.50
+  Q 385.24 554.52 384.04 555.00
+  L 383.96 553.75
+  L 384.00 513.99
+  Q 384.00 513.70 383.67 513.12
+  Q 383.36 512.57 383.96 512.00
+  L 384.04 511.75
+  L 426.46 512.00
+  Z"
+/>
+<path fill="#cf0000" d="
+  M 640.00 512.00
+  L 640.00 554.46
+  Q 619.88 554.97 598.01 554.46
+  A 0.71 0.71 0.8 0 1 597.32 553.75
+  L 597.54 512.00
+  L 638.43 511.94
+  A 1.30 0.32 -39.5 0 0 639.24 511.55
+  Q 639.60 511.29 640.00 512.00
+  Z"
+/>
+<path fill="#802a2c" d="
+  M 383.96 512.00
+  Q 383.36 512.57 383.67 513.12
+  Q 384.00 513.70 384.00 513.99
+  L 383.96 553.75
+  Q 383.89 555.12 382.94 554.56
+  Q 362.20 555.07 341.46 554.50
+  Q 340.94 534.00 341.46 513.50
+  Q 341.09 511.73 342.65 511.89
+  Q 343.78 512.00 343.87 512.00
+  Q 363.91 512.00 383.96 512.00
+  Z"
+/>
+<path fill="#500104" fill-opacity="0.475" d="
+  M 640.00 512.00
+  L 682.46 512.25
+  L 682.50 554.46
+  Q 663.13 554.53 643.75 554.50
+  Q 641.31 554.50 640.29 555.00
+  Q 640.34 554.63 640.00 554.46
+  L 640.00 512.00
+  Z"
+/>
+<path fill="#b60000" d="
+  M 383.96 553.75
+  L 384.04 555.00
+  L 383.96 597.25
+  Q 363.25 597.72 342.53 597.32
+  Q 341.95 597.31 341.69 597.60
+  Q 341.36 597.94 341.29 598.50
+  L 341.21 597.25
+  Q 341.93 576.00 341.21 554.75
+  Q 341.25 554.54 341.46 554.50
+  Q 362.20 555.07 382.94 554.56
+  Q 383.89 555.12 383.96 553.75
+  Z"
+/>
+<path fill="#633f42" d="
+  M 298.25 554.54
+  L 298.50 554.46
+  Q 299.34 554.47 300.17 554.60
+  Q 301.16 554.75 301.84 554.73
+  Q 321.53 554.19 341.21 554.75
+  Q 341.93 576.00 341.21 597.25
+  Q 321.99 597.36 302.77 597.25
+  Q 302.70 597.25 301.26 597.41
+  Q 299.87 597.57 298.79 596.50
+  Q 298.34 572.08 298.75 558.25
+  Q 298.82 555.78 298.25 554.54
+  Z"
+/>
+<path fill="#9f0405" d="
+  M 682.50 554.46
+  Q 683.20 554.37 683.75 554.71
+  Q 682.46 554.47 682.59 555.12
+  Q 682.75 555.91 682.75 555.93
+  Q 682.93 576.44 682.50 596.96
+  Q 680.20 597.56 676.75 597.50
+  Q 661.98 597.23 640.29 597.75
+  Q 639.56 576.38 640.29 555.00
+  Q 641.31 554.50 643.75 554.50
+  Q 663.13 554.53 682.50 554.46
+  Z"
+/>
+<path fill="#160102" fill-opacity="0.133" d="
+  M 725.50 597.21
+  L 682.79 597.25
+  Q 682.73 597.02 682.50 596.96
+  Q 682.93 576.44 682.75 555.93
+  Q 682.75 555.91 682.59 555.12
+  Q 682.46 554.47 683.75 554.71
+  L 724.13 554.56
+  A 1.39 1.36 89.8 0 1 725.50 555.95
+  L 725.50 597.21
+  Z"
+/>
+<path fill="#830000" fill-opacity="0.796" d="
+  M 298.79 596.50
+  Q 299.87 597.57 301.26 597.41
+  Q 302.70 597.25 302.77 597.25
+  Q 321.99 597.36 341.21 597.25
+  L 341.29 598.50
+  L 341.29 638.75
+  Q 341.52 640.11 340.81 639.96
+  Q 340.14 639.82 340.02 639.82
+  Q 319.88 640.29 299.75 639.75
+  Q 299.25 639.74 298.79 640.25
+  L 298.71 639.50
+  Q 298.57 612.30 298.69 603.69
+  Q 298.74 599.81 298.21 597.50
+  Q 298.66 597.08 298.79 596.50
+  Z"
+/>
+<path fill="#d60000" d="
+  M 682.50 596.96
+  Q 682.73 597.02 682.79 597.25
+  Q 682.41 599.35 682.50 602.75
+  Q 682.94 618.65 682.50 639.96
+  L 641.01 640.00
+  A 0.84 0.83 89.3 0 1 640.18 639.18
+  Q 639.64 618.65 640.29 597.75
+  Q 661.98 597.23 676.75 597.50
+  Q 680.20 597.56 682.50 596.96
+  Z"
+/>
+<path fill="#dc0000" d="
+  M 383.96 597.25
+  L 384.00 639.21
+  A 0.81 0.80 -0.0 0 1 383.19 640.01
+  L 341.54 640.25
+  Q 341.63 639.43 341.29 638.75
+  L 341.29 598.50
+  Q 341.36 597.94 341.69 597.60
+  Q 341.95 597.31 342.53 597.32
+  Q 363.25 597.72 383.96 597.25
+  Z"
+/>
+<path fill="#d30000" d="
+  M 512.00 597.29
+  Q 512.17 618.15 511.67 639.00
+  Q 511.66 639.59 512.04 640.00
+  L 511.96 640.25
+  Q 490.88 639.59 469.81 640.30
+  A 0.50 0.49 -1.2 0 0 469.32 640.80
+  Q 469.85 661.53 469.21 682.25
+  L 426.75 682.71
+  Q 426.89 682.24 426.54 682.00
+  L 426.47 641.05
+  A 1.06 1.06 -0.3 0 1 427.52 639.99
+  L 468.82 639.82
+  A 0.52 0.50 -89.4 0 0 469.32 639.31
+  Q 469.80 618.78 469.25 598.39
+  A 1.05 1.05 89.2 0 1 470.30 597.31
+  L 512.00 597.29
+  Z"
+/>
+<path fill="#e60000" d="
+  M 512.00 597.29
+  L 553.59 597.25
+  A 1.09 1.08 -89.2 0 1 554.67 598.37
+  Q 554.29 612.08 554.61 626.25
+  Q 554.63 627.00 554.45 632.62
+  Q 554.34 636.16 555.00 639.00
+  Q 555.30 640.31 557.00 640.04
+  L 554.75 640.29
+  L 512.04 640.00
+  Q 511.66 639.59 511.67 639.00
+  Q 512.17 618.15 512.00 597.29
+  Z"
+/>
+<path fill="#8b1f21" d="
+  M 682.79 597.25
+  L 725.50 597.21
+  L 725.75 597.29
+  Q 725.18 598.36 725.28 599.56
+  Q 725.43 601.27 725.43 601.33
+  Q 725.15 620.29 725.21 639.25
+  Q 724.57 640.00 724.00 640.00
+  Q 703.37 639.97 682.75 640.04
+  L 682.50 639.96
+  Q 682.94 618.65 682.50 602.75
+  Q 682.41 599.35 682.79 597.25
+  Z"
+/>
+<path fill="#c80000" d="
+  M 341.29 638.75
+  Q 341.63 639.43 341.54 640.25
+  Q 341.24 640.76 341.25 642.00
+  Q 341.35 651.53 341.19 682.19
+  A 0.49 0.49 0.6 0 1 340.69 682.68
+  Q 321.34 682.60 302.00 682.49
+  Q 300.32 682.48 298.75 683.04
+  Q 298.41 682.87 298.46 682.50
+  L 298.79 640.25
+  Q 299.25 639.74 299.75 639.75
+  Q 319.88 640.29 340.02 639.82
+  Q 340.14 639.82 340.81 639.96
+  Q 341.52 640.11 341.29 638.75
+  Z"
+/>
+<path fill="#c20000" d="
+  M 725.21 639.25
+  Q 725.25 639.68 725.54 640.00
+  Q 724.87 661.12 725.46 682.25
+  Q 722.97 682.87 720.46 682.77
+  Q 716.14 682.60 715.51 682.62
+  Q 711.25 682.74 705.25 682.50
+  Q 697.60 682.19 682.79 682.75
+  L 682.75 640.04
+  Q 703.37 639.97 724.00 640.00
+  Q 724.57 640.00 725.21 639.25
+  Z"
+/>
+<path fill="#500104" fill-opacity="0.475" d="
+  M 298.71 639.50
+  L 298.79 640.25
+  L 298.46 682.50
+  L 256.29 682.75
+  L 256.00 640.00
+  Q 276.62 640.00 297.25 640.00
+  Q 298.41 640.00 298.71 639.50
+  Z"
+/>
+<path fill="#802a2c" d="
+  M 511.96 640.25
+  Q 512.03 660.03 512.00 679.81
+  Q 512.00 679.94 511.87 681.17
+  Q 511.68 683.07 514.00 682.54
+  L 512.04 683.00
+  Q 511.17 682.52 508.75 682.50
+  Q 489.02 682.31 469.29 682.75
+  L 469.21 682.25
+  Q 469.85 661.53 469.32 640.80
+  A 0.50 0.49 -1.2 0 1 469.81 640.30
+  Q 490.88 639.59 511.96 640.25
+  Z"
+/>
+<path fill="#780000" fill-opacity="0.733" d="
+  M 512.04 640.00
+  L 554.75 640.29
+  L 554.46 682.75
+  L 514.00 682.54
+  Q 511.68 683.07 511.87 681.17
+  Q 512.00 679.94 512.00 679.81
+  Q 512.03 660.03 511.96 640.25
+  L 512.04 640.00
+  Z"
+/>
+<path fill="#d60000" d="
+  M 557.00 640.04
+  L 596.52 640.00
+  A 0.92 0.91 -89.4 0 1 597.43 640.94
+  Q 596.94 657.53 597.50 674.50
+  Q 597.54 675.71 597.21 682.00
+  Q 595.83 682.68 594.25 682.69
+  Q 575.12 682.75 556.00 682.75
+  Q 554.84 682.75 554.71 683.25
+  Q 554.41 683.10 554.46 682.75
+  L 554.75 640.29
+  L 557.00 640.04
+  Z"
+/>
+<path fill="#6f373a" d="
+  M 725.54 640.00
+  L 768.00 640.00
+  L 768.29 682.75
+  Q 768.31 683.16 768.04 683.25
+  Q 767.09 682.55 766.19 682.56
+  Q 745.86 682.81 725.54 682.50
+  L 725.46 682.25
+  Q 724.87 661.12 725.54 640.00
+  Z"
+/>
+<path fill="#ee0000" d="
+  M 426.54 682.00
+  Q 426.89 682.24 426.75 682.71
+  L 426.50 725.21
+  L 384.29 725.25
+  L 384.01 683.63
+  A 1.15 1.13 -0.0 0 1 385.16 682.50
+  Q 405.25 682.50 425.00 682.50
+  Q 425.61 682.50 426.54 682.00
+  Z"
+/>
+<path fill="#b00000" d="
+  M 597.21 682.00
+  Q 597.90 703.62 597.21 725.25
+  Q 576.86 725.86 556.50 725.26
+  Q 556.35 725.26 555.54 725.44
+  Q 554.82 725.59 554.79 724.50
+  Q 554.83 723.24 554.68 721.99
+  Q 554.51 720.43 554.53 719.50
+  Q 554.91 701.38 554.71 683.25
+  Q 554.84 682.75 556.00 682.75
+  Q 575.12 682.75 594.25 682.69
+  Q 595.83 682.68 597.21 682.00
+  Z"
+/>
+<path fill="#9f0405" d="
+  M 469.21 682.25
+  L 469.29 682.75
+  L 469.29 721.75
+  L 469.07 724.70
+  A 0.64 0.52 1.4 0 1 468.44 725.19
+  L 426.75 725.29
+  L 426.50 725.21
+  L 426.75 682.71
+  L 469.21 682.25
+  Z"
+/>
+<path fill="#e80000" d="
+  M 725.46 682.25
+  L 725.54 682.50
+  L 725.46 724.00
+  Q 725.12 724.70 725.21 725.50
+  Q 704.35 724.90 683.62 725.50
+  A 1.05 1.03 89.2 0 1 682.56 724.45
+  L 682.79 682.75
+  Q 697.60 682.19 705.25 682.50
+  Q 711.25 682.74 715.51 682.62
+  Q 716.14 682.60 720.46 682.77
+  Q 722.97 682.87 725.46 682.25
+  Z"
+/>
+<path fill="#160102" fill-opacity="0.133" d="
+  M 256.04 683.00
+  L 255.71 725.50
+  L 213.75 725.46
+  Q 213.32 724.76 213.31 722.94
+  Q 213.27 703.22 213.25 683.74
+  A 1.24 1.24 -45.0 0 1 214.49 682.50
+  Q 234.50 682.50 254.50 682.50
+  Q 255.70 682.50 256.04 683.00
+  Z"
+/>
+<path fill="#9f0405" d="
+  M 298.46 682.50
+  Q 298.41 682.87 298.75 683.04
+  Q 298.23 703.97 298.50 717.00
+  Q 298.63 723.33 298.46 725.75
+  Q 278.50 725.32 258.53 725.50
+  Q 258.42 725.50 257.49 725.43
+  Q 255.70 725.30 255.96 727.25
+  Q 255.62 726.42 255.71 725.50
+  L 256.04 683.00
+  Q 256.25 682.96 256.29 682.75
+  L 298.46 682.50
+  Z"
+/>
+<path fill="#0b0102" fill-opacity="0.071" d="
+  M 512.04 683.00
+  L 512.25 725.25
+  L 469.79 725.50
+  L 469.29 721.75
+  L 469.29 682.75
+  Q 489.02 682.31 508.75 682.50
+  Q 511.17 682.52 512.04 683.00
+  Z"
+/>
+<path fill="#5c4346" d="
+  M 514.00 682.54
+  L 554.46 682.75
+  Q 554.41 683.10 554.71 683.25
+  Q 554.91 701.38 554.53 719.50
+  Q 554.51 720.43 554.68 721.99
+  Q 554.83 723.24 554.79 724.50
+  L 554.25 725.29
+  Q 533.25 725.80 512.25 725.25
+  L 512.04 683.00
+  L 514.00 682.54
+  Z"
+/>
+<path fill="#8e0000" fill-opacity="0.863" d="
+  M 725.54 682.50
+  Q 745.86 682.81 766.19 682.56
+  Q 767.09 682.55 768.04 683.25
+  L 767.96 724.75
+  Q 767.48 724.71 767.14 724.95
+  A 1.50 0.60 -45.4 0 1 766.31 725.31
+  L 726.00 725.25
+  A 0.54 0.49 88.1 0 1 725.51 724.74
+  L 725.46 724.00
+  L 725.54 682.50
+  Z"
+/>
+<path fill="#55464a" d="
+  M 810.75 725.21
+  L 810.50 725.29
+  L 768.29 725.25
+  L 767.96 724.75
+  L 768.04 683.25
+  Q 768.31 683.16 768.29 682.75
+  L 809.58 682.76
+  A 1.03 1.00 89.7 0 1 810.58 683.78
+  L 810.75 725.21
+  Z"
+/>
+<path fill="#440004" fill-opacity="0.400" d="
+  M 469.29 721.75
+  L 469.79 725.50
+  Q 469.30 726.71 469.31 729.44
+  Q 469.38 748.47 469.26 766.62
+  A 1.34 1.33 0.2 0 1 467.92 767.94
+  L 426.79 768.00
+  L 426.75 725.29
+  L 468.44 725.19
+  A 0.64 0.52 1.4 0 0 469.07 724.70
+  L 469.29 721.75
+  Z"
+/>
+<path fill="#d00000" d="
+  M 725.46 724.00
+  L 725.51 724.74
+  A 0.54 0.49 88.1 0 0 726.00 725.25
+  L 766.31 725.31
+  A 1.50 0.60 -45.4 0 0 767.14 724.95
+  Q 767.48 724.71 767.96 724.75
+  L 768.29 725.25
+  L 767.96 767.75
+  Q 746.95 768.32 725.93 767.82
+  A 0.51 0.50 90.0 0 1 725.44 767.32
+  L 725.21 725.50
+  Q 725.12 724.70 725.46 724.00
+  Z"
+/>
+<path fill="#802a2c" d="
+  M 554.79 724.50
+  Q 554.82 725.59 555.54 725.44
+  Q 556.35 725.26 556.50 725.26
+  Q 576.86 725.86 597.21 725.25
+  L 597.46 766.25
+  L 597.50 768.25
+  Q 569.46 767.65 556.75 768.00
+  Q 554.84 768.05 554.54 766.75
+  L 554.57 725.95
+  A 0.67 0.12 56.6 0 0 554.38 725.51
+  L 554.25 725.29
+  L 554.79 724.50
+  Z"
+/>
+<path fill="#8b1f21" d="
+  M 255.71 725.50
+  Q 255.62 726.42 255.96 727.25
+  L 255.96 768.00
+  L 213.46 767.75
+  L 213.29 726.50
+  L 213.75 725.46
+  L 255.71 725.50
+  Z"
+/>
+<path fill="#c80000" d="
+  M 384.29 725.25
+  L 426.50 725.21
+  L 426.75 725.29
+  L 426.79 768.00
+  L 426.71 768.50
+  Q 422.86 768.00 415.75 768.00
+  Q 400.02 768.00 384.29 768.00
+  Q 384.37 767.37 384.04 767.00
+  L 384.29 725.25
+  Z"
+/>
+<path fill="#4e4a4e" d="
+  M 512.25 725.25
+  Q 511.68 746.28 512.17 767.31
+  A 0.53 0.51 88.8 0 0 512.68 767.82
+  L 554.46 768.00
+  Q 555.08 787.12 554.69 800.94
+  Q 554.51 807.03 554.66 810.07
+  A 0.52 0.52 88.9 0 0 555.18 810.57
+  L 597.21 810.75
+  Q 597.65 831.88 597.04 853.00
+  Q 596.37 853.67 595.52 853.51
+  Q 594.43 853.31 594.31 853.30
+  Q 574.68 853.07 555.05 853.43
+  A 0.31 0.26 -5.4 0 1 554.74 853.22
+  L 554.71 853.00
+  L 554.69 811.43
+  A 0.93 0.92 90.0 0 0 553.77 810.50
+  L 512.70 810.68
+  A 0.52 0.51 0.0 0 0 512.18 811.19
+  L 512.04 853.25
+  Q 491.90 853.37 471.75 853.50
+  Q 470.15 853.51 469.46 852.75
+  L 469.45 811.60
+  A 0.90 0.89 90.0 0 0 468.56 810.70
+  L 426.75 810.50
+  L 426.71 768.50
+  L 426.79 768.00
+  L 467.92 767.94
+  A 1.34 1.33 0.2 0 0 469.26 766.62
+  Q 469.38 748.47 469.31 729.44
+  Q 469.30 726.71 469.79 725.50
+  L 512.25 725.25
+  Z
+  M 512.00 768.37
+  A 0.37 0.37 0.0 0 0 511.63 768.00
+  L 469.65 768.00
+  A 0.37 0.37 0.0 0 0 469.28 768.37
+  L 469.28 810.15
+  A 0.37 0.37 0.0 0 0 469.65 810.52
+  L 511.63 810.52
+  A 0.37 0.37 0.0 0 0 512.00 810.15
+  L 512.00 768.37
+  Z"
+/>
+<path fill="#d00000" d="
+  M 639.71 767.75
+  Q 620.82 768.24 606.25 768.00
+  Q 601.04 767.91 597.50 768.25
+  L 597.46 766.25
+  L 597.56 726.06
+  A 0.53 0.53 -1.7 0 1 598.06 725.53
+  Q 603.45 725.13 610.25 725.25
+  Q 621.96 725.46 639.19 725.32
+  A 0.50 0.50 -2.2 0 1 639.70 725.81
+  Q 640.44 746.78 639.71 767.75
+  Z"
+/>
+<path fill="#590102" fill-opacity="0.533" d="
+  M 768.29 725.25
+  L 810.50 725.29
+  L 810.79 768.00
+  Q 810.81 768.41 810.54 768.50
+  L 810.51 768.28
+  A 0.31 0.27 -4.4 0 0 810.21 768.06
+  L 768.25 768.04
+  Q 768.02 767.98 767.96 767.75
+  L 768.29 725.25
+  Z"
+/>
+<path fill="#4e4a4e" d="
+  M 810.50 725.29
+  L 810.75 725.21
+  L 853.00 725.46
+  Q 853.65 730.91 853.50 736.37
+  Q 853.26 745.06 853.26 745.14
+  Q 853.28 756.57 853.21 768.00
+  L 810.79 768.00
+  L 810.50 725.29
+  Z"
+/>
+<path fill="#d60000" d="
+  M 298.46 725.75
+  L 298.57 767.32
+  A 0.52 0.50 -0.6 0 1 298.06 767.82
+  L 256.04 768.25
+  L 255.96 768.00
+  L 255.96 727.25
+  Q 255.70 725.30 257.49 725.43
+  Q 258.42 725.50 258.53 725.50
+  Q 278.50 725.32 298.46 725.75
+  Z"
+/>
+<path fill="#0b0102" fill-opacity="0.071" d="
+  M 554.54 766.75
+  Q 554.84 768.05 556.75 768.00
+  Q 569.46 767.65 597.50 768.25
+  L 597.46 769.25
+  L 597.21 810.75
+  L 555.18 810.57
+  A 0.52 0.52 88.9 0 1 554.66 810.07
+  Q 554.51 807.03 554.69 800.94
+  Q 555.08 787.12 554.46 768.00
+  L 554.54 766.75
+  Z"
+/>
+<path fill="#e20000" d="
+  M 384.04 767.00
+  Q 384.37 767.37 384.29 768.00
+  L 383.96 810.50
+  Q 362.48 811.16 341.00 810.46
+  Q 342.01 789.99 341.24 769.30
+  A 1.25 1.25 88.9 0 1 342.49 768.00
+  L 383.06 768.06
+  A 0.85 0.60 6.1 0 0 383.82 767.64
+  L 384.04 767.00
+  Z"
+/>
+<path fill="#c20000" d="
+  M 213.46 767.75
+  L 255.96 768.00
+  L 256.04 768.25
+  L 256.00 810.46
+  Q 235.09 811.08 214.18 810.57
+  A 0.52 0.51 90.0 0 1 213.68 810.06
+  L 213.29 769.25
+  L 213.21 768.00
+  Q 213.25 767.79 213.46 767.75
+  Z"
+/>
+<path fill="#9f0405" d="
+  M 639.71 767.75
+  Q 639.77 767.98 640.00 768.04
+  L 639.79 810.50
+  L 639.71 810.75
+  Q 618.85 810.13 598.02 810.75
+  A 0.51 0.50 -0.6 0 1 597.50 810.25
+  L 597.46 769.25
+  L 597.50 768.25
+  Q 601.04 767.91 606.25 768.00
+  Q 620.82 768.24 639.71 767.75
+  Z"
+/>
+<path fill="#b60000" d="
+  M 810.54 768.50
+  Q 810.45 768.88 810.54 769.25
+  L 810.46 810.25
+  Q 809.52 811.10 808.17 810.95
+  Q 806.38 810.76 806.31 810.76
+  Q 787.05 810.90 767.79 810.50
+  L 768.25 768.04
+  L 810.21 768.06
+  A 0.31 0.27 -4.4 0 1 810.51 768.28
+  L 810.54 768.50
+  Z"
+/>
+<path fill="#230004" fill-opacity="0.184" d="
+  M 853.21 768.00
+  Q 853.93 789.25 853.21 810.50
+  L 811.37 810.55
+  A 0.65 0.63 90.0 0 1 810.74 809.90
+  L 810.54 769.25
+  Q 810.45 768.88 810.54 768.50
+  Q 810.81 768.41 810.79 768.00
+  L 853.21 768.00
+  Z"
+/>
+<path fill="#6f373a" d="
+  M 170.75 767.96
+  L 213.21 768.00
+  L 213.29 769.25
+  L 213.25 809.98
+  A 0.73 0.72 -0.4 0 1 212.53 810.70
+  L 170.79 810.75
+  L 170.71 810.25
+  L 170.75 767.96
+  Z"
+/>
+<path fill="#830000" fill-opacity="0.796" d="
+  M 384.29 768.00
+  Q 400.02 768.00 415.75 768.00
+  Q 422.86 768.00 426.71 768.50
+  L 426.75 810.50
+  L 384.04 810.75
+  L 383.96 810.50
+  L 384.29 768.00
+  Z"
+/>
+<path fill="#ee0000" d="
+  M 640.00 768.04
+  L 681.55 768.00
+  A 1.14 1.13 -0.0 0 1 682.69 769.13
+  L 682.75 810.04
+  A 0.46 0.46 0.0 0 0 683.21 810.50
+  L 764.00 810.54
+  Q 763.39 810.75 761.75 810.75
+  Q 700.77 810.77 639.79 810.50
+  L 640.00 768.04
+  Z"
+/>
+<path fill="#a40000" d="
+  M 213.29 769.25
+  L 213.68 810.06
+  A 0.52 0.51 90.0 0 0 214.18 810.57
+  Q 235.09 811.08 256.00 810.46
+  Q 256.98 810.75 259.50 810.75
+  Q 318.11 810.74 341.00 810.46
+  Q 362.48 811.16 383.96 810.50
+  L 384.04 810.75
+  L 384.00 853.21
+  Q 281.56 853.11 208.25 853.50
+  Q 186.86 853.61 171.25 853.21
+  Q 170.56 852.75 170.56 852.19
+  Q 170.85 831.47 170.79 810.75
+  L 212.53 810.70
+  A 0.73 0.72 -0.4 0 0 213.25 809.98
+  L 213.29 769.25
+  Z
+  M 212.70 815.28
+  Q 212.87 813.84 212.81 813.16
+  Q 212.61 811.00 210.45 811.00
+  Q 191.75 811.00 174.75 811.00
+  Q 173.97 811.00 172.54 811.51
+  A 0.42 0.38 65.1 0 0 172.36 812.09
+  Q 172.71 812.73 172.03 813.12
+  A 0.91 0.72 -17.6 0 0 171.56 813.82
+  L 171.50 852.24
+  A 0.51 0.51 0.0 0 0 172.01 852.75
+  L 211.41 852.75
+  A 1.59 1.59 89.8 0 0 213.00 851.16
+  Q 213.00 835.50 213.00 819.75
+  Q 213.00 819.29 212.72 817.36
+  Q 212.57 816.36 212.70 815.28
+  Z"
+/>
+<path fill="#440004" fill-opacity="0.400" d="
+  M 597.46 769.25
+  L 597.50 810.25
+  A 0.51 0.50 -0.6 0 0 598.02 810.75
+  Q 618.85 810.13 639.71 810.75
+  Q 640.01 811.26 640.00 812.50
+  Q 639.92 820.19 640.04 853.25
+  Q 619.24 853.34 598.43 853.44
+  Q 598.05 853.44 597.72 853.30
+  Q 597.38 853.16 597.04 853.00
+  Q 597.65 831.88 597.21 810.75
+  L 597.46 769.25
+  Z"
+/>
+<path fill="#951315" d="
+  M 810.54 769.25
+  L 810.74 809.90
+  A 0.65 0.63 90.0 0 0 811.37 810.55
+  L 853.21 810.50
+  L 853.49 852.15
+  A 1.18 1.15 -0.2 0 1 852.31 853.31
+  L 811.00 853.21
+  Q 810.98 852.66 810.75 852.18
+  Q 810.50 851.65 810.50 851.24
+  L 810.46 810.25
+  L 810.54 769.25
+  Z"
+/>
+<path fill="#250b1a" d="
+  M 170.71 810.25
+  L 170.79 810.75
+  Q 170.85 831.47 170.56 852.19
+  Q 170.56 852.75 171.25 853.21
+  Q 149.63 853.90 128.00 853.25
+  L 128.04 810.50
+  L 170.71 810.25
+  Z"
+/>
+<path fill="#a40000" d="
+  M 810.46 810.25
+  L 810.50 851.24
+  Q 810.50 851.65 810.75 852.18
+  Q 810.98 852.66 811.00 853.21
+  L 640.04 853.25
+  Q 639.92 820.19 640.00 812.50
+  Q 640.01 811.26 639.71 810.75
+  L 639.79 810.50
+  Q 700.77 810.77 761.75 810.75
+  Q 763.39 810.75 764.00 810.54
+  L 767.79 810.50
+  Q 787.05 810.90 806.31 810.76
+  Q 806.38 810.76 808.17 810.95
+  Q 809.52 811.10 810.46 810.25
+  Z"
+/>
+<path fill="#693b3e" d="
+  M 426.75 810.50
+  L 426.54 853.00
+  Q 425.65 853.73 424.63 853.55
+  Q 422.91 853.26 422.82 853.27
+  Q 403.41 853.60 384.00 853.21
+  L 384.04 810.75
+  L 426.75 810.50
+  Z"
+/>
+<path fill="#8e0000" fill-opacity="0.863" d="
+  M 212.72 817.36
+  Q 213.00 819.29 213.00 819.75
+  Q 213.00 835.50 213.00 851.16
+  A 1.59 1.59 -89.8 0 1 211.41 852.75
+  L 172.01 852.75
+  A 0.51 0.51 -0.0 0 1 171.50 852.24
+  L 171.56 813.82
+  A 0.91 0.72 -17.6 0 1 172.03 813.12
+  Q 172.71 812.73 172.36 812.09
+  A 0.42 0.38 65.1 0 1 172.54 811.51
+  Q 173.97 811.00 174.75 811.00
+  Q 191.75 811.00 210.45 811.00
+  Q 212.61 811.00 212.81 813.16
+  Q 212.87 813.84 212.70 815.28
+  Q 212.57 816.36 212.72 817.36
+  Z"
+/>
+<path fill="#deeed6" d="
+  M 86.50 853.29
+  Q 107.25 853.83 128.00 853.25
+  L 128.06 895.44
+  A 0.50 0.50 -45.0 0 0 128.56 895.94
+  L 896.00 896.00
+  L 896.00 937.84
+  A 0.69 0.67 -0.4 0 1 895.32 938.51
+  L 892.00 938.54
+  L 128.00 938.46
+  L 127.94 897.38
+  A 1.39 1.38 0.0 0 0 126.55 896.00
+  L 85.29 896.00
+  L 85.21 895.75
+  Q 85.71 875.82 85.51 855.88
+  Q 85.51 855.75 85.31 854.66
+  Q 85.11 853.55 86.50 853.29
+  Z"
+/>
+<path fill="#deeed6" d="
+  M 896.04 853.25
+  Q 917.02 853.83 938.00 853.29
+  Q 938.48 853.50 938.48 854.00
+  Q 938.50 875.00 938.50 896.00
+  L 896.00 896.00
+  L 896.04 853.25
+  Z"
+/>
+<path fill="#757161" d="
+  M 981.29 888.50
+  Q 981.58 895.70 981.25 907.00
+  Q 980.90 918.84 981.54 938.50
+  L 981.46 938.75
+  Q 960.48 938.13 939.50 938.74
+  A 0.52 0.50 -0.6 0 0 938.99 939.24
+  L 938.44 980.69
+  A 0.51 0.50 -89.4 0 1 937.94 981.19
+  Q 306.25 981.35 90.50 981.25
+  Q 86.87 981.25 85.25 981.50
+  L 85.25 938.75
+  L 128.00 938.46
+  L 892.00 938.54
+  L 937.94 938.45
+  A 0.51 0.50 -90.0 0 0 938.44 937.94
+  L 938.50 896.00
+  L 980.75 896.00
+  A 0.50 0.50 45.0 0 0 981.25 895.50
+  L 981.29 888.50
+  Z"
+/>
+<path fill="#757161" d="
+  M 85.21 895.75
+  L 85.29 896.00
+  Q 85.84 917.38 85.25 938.75
+  L 43.00 938.50
+  A 0.25 0.25 45.0 0 1 42.75 938.25
+  L 42.79 896.00
+  L 85.21 895.75
+  Z"
+/>
+<path fill="#8595a1" d="
+  M 85.29 896.00
+  L 126.55 896.00
+  A 1.39 1.38 -0.0 0 1 127.94 897.38
+  L 128.00 938.46
+  L 85.25 938.75
+  Q 85.84 917.38 85.29 896.00
+  Z"
+/>
+<path fill="#8595a1" d="
+  M 896.00 896.00
+  L 938.50 896.00
+  L 938.44 937.94
+  A 0.51 0.50 -90.0 0 1 937.94 938.45
+  L 892.00 938.54
+  L 895.32 938.51
+  A 0.69 0.67 -0.4 0 0 896.00 937.84
+  L 896.00 896.00
+  Z"
+/>
+<path fill="#140c1c" d="
+  M 981.46 938.75
+  L 981.50 980.53
+  A 0.74 0.73 -0.4 0 1 980.77 981.26
+  L 939.19 981.43
+  A 0.50 0.50 45.0 0 0 938.69 981.93
+  Q 938.79 1002.44 938.75 1022.95
+  Q 938.75 1023.27 938.59 1023.51
+  Q 938.41 1023.77 938.19 1024.00
+  L 937.69 1024.00
+  Q 937.61 1023.75 937.00 1023.75
+  Q 512.00 1023.75 87.00 1023.75
+  Q 86.17 1023.75 85.94 1024.00
+  L 85.44 1024.00
+  Q 85.18 1023.40 85.19 1022.75
+  Q 85.56 1002.12 85.25 981.50
+  Q 86.87 981.25 90.50 981.25
+  Q 306.25 981.35 937.94 981.19
+  A 0.51 0.50 -89.4 0 0 938.44 980.69
+  L 938.99 939.24
+  A 0.52 0.50 -0.6 0 1 939.50 938.74
+  Q 960.48 938.13 981.46 938.75
+  Z"
+/>
+<path fill="#14061a" fill-opacity="0.973" d="
+  M 937.69 1024.00
+  L 85.94 1024.00
+  Q 86.17 1023.75 87.00 1023.75
+  Q 512.00 1023.75 937.00 1023.75
+  Q 937.61 1023.75 937.69 1024.00
+  Z"
+/>
+</svg>
